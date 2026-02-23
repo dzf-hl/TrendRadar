@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:58:50.912808+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-23T19:40:57.350215+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
@@ -176,6 +176,21 @@
           "time_info": "[00时30分 ~ 05时25分]"
         },
         {
+          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            13,
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时58分 ~ 19时40分]"
+        },
+        {
           "title": "美媒：若伊朗很快提交核方案，美伊会谈预计将于周五举行",
           "url": "https://flash.jin10.com/detail/20260222221813362800",
           "source": "金十数据",
@@ -188,6 +203,17 @@
           "time_info": "[00时31分 ~ 04时27分]"
         },
         {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时40分]"
+        },
+        {
           "title": "伊朗多所高校再出现学生反政府集会",
           "url": "https://news.ifeng.com/c/8qyIqT5ziOE",
           "source": "凤凰网",
@@ -198,20 +224,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时07分 ~ 15时55分]"
-        },
-        {
-          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时58分 ~ 18时58分]"
         },
         {
           "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
@@ -227,15 +239,27 @@
           "time_info": "[00时31分 ~ 05时25分]"
         },
         {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
+          "title": "美军重兵合围伊朗",
+          "url": "https://www.douyin.com/hot/2409181",
+          "source": "抖音",
           "ranks": [
-            7
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时58分]"
+          "appearance_count": 6,
+          "time_info": "[14时11分 ~ 19时40分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时40分]"
         },
         {
           "title": "美国可能于2月23日或24日对伊朗发动打击",
@@ -259,29 +283,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时07分 ~ 15时55分]"
-        },
-        {
-          "title": "美军重兵合围伊朗",
-          "url": "https://www.douyin.com/hot/2409181",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时11分 ~ 18时58分]"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时58分]"
         },
         {
           "title": "美媒：美国和伊朗谈判代表预计将于周四在日内瓦会晤",
@@ -308,6 +309,19 @@
           "time_info": "[06时24分 ~ 07时26分]"
         },
         {
+          "title": "欧盟呼吁就伊朗问题寻求“外交解决方案”",
+          "url": "https://wallstreetcn.com/livenews/3057424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 19时40分]"
+        },
+        {
           "title": "伊朗外长：或与美特使会面 与美方达成协议指日可待",
           "url": "https://flash.jin10.com/detail/20260223043136835800",
           "source": "金十数据",
@@ -318,18 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时24分]"
-        },
-        {
-          "title": "欧盟呼吁就伊朗问题寻求“外交解决方案”",
-          "url": "https://wallstreetcn.com/livenews/3057424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时58分]"
         },
         {
           "title": "伊朗陆军称密切监控边境敌方动向",
@@ -393,6 +395,18 @@
           "time_info": "[15时55分 ~ 16时51分]"
         },
         {
+          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
+          "url": "https://www.zhihu.com/question/2005108327592519351",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 19时40分]"
+        },
+        {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
           "url": "https://wallstreetcn.com/livenews/3057376",
           "source": "华尔街见闻-快讯",
@@ -450,6 +464,17 @@
           "time_info": "14时11分"
         },
         {
+          "title": "印度再次呼吁在伊朗的本国公民尽快离开",
+          "url": "https://wallstreetcn.com/livenews/3057444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "伊朗陆军司令：正持续监控边境沿线的所有敌方动向。全面战备是防止敌方误判和敌对行动的主要威慑手段。",
           "url": "https://flash.jin10.com/detail/20260223064445954800",
           "source": "金十数据",
@@ -470,17 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
-        },
-        {
-          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
-          "url": "https://www.zhihu.com/question/2005108327592519351",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
         },
         {
           "title": "报道称美国可能在2月23日或2月24日对伊朗发动军事打击",
@@ -617,8 +631,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 18时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 19时40分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -674,7 +688,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -688,17 +702,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
-        },
-        {
-          "title": "鉴于特朗普关税风险，欧盟势将冻结对与美国贸易协议的批准程序。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3057440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
         },
         {
           "title": "连锁反应来了，印度打脸特朗普",
@@ -761,6 +764,19 @@
           "time_info": "[00时30分 ~ 18时58分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时40分]"
+        },
+        {
           "title": "格陵兰岛自治政府总理回应特朗普“医院船”提议",
           "url": "https://wallstreetcn.com/livenews/3057287",
           "source": "华尔街见闻-快讯",
@@ -806,6 +822,18 @@
           "time_info": "[01时26分 ~ 07时26分]"
         },
         {
+          "title": "鉴于特朗普关税风险，欧盟势将冻结对与美国贸易协议的批准程序。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3057440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 19时40分]"
+        },
+        {
           "title": "摩根大通承认国会山骚乱后关了特朗普的账户",
           "url": "https://wallstreetcn.com/livenews/3057262",
           "source": "华尔街见闻-快讯",
@@ -835,16 +863,30 @@
           "time_info": "[00时31分 ~ 05时25分]"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            5
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时58分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时40分]"
+        },
+        {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时55分 ~ 19时40分]"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -857,31 +899,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 04时27分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时58分]"
-        },
-        {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时55分 ~ 18时58分]"
         },
         {
           "title": "男子持枪闯入特朗普住所被击毙",
@@ -951,7 +968,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -1096,7 +1113,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -1118,8 +1135,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时30分 ~ 18时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 19时40分]"
         },
         {
           "title": "欢迎来到AI智能体新时代：未来不是“为人创造”，而是“为AI服务”",
@@ -1151,11 +1168,24 @@
           "ranks": [
             10,
             13,
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时30分 ~ 19时40分]"
+        },
+        {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 18,
-          "time_info": "[00时30分 ~ 18时58分]"
+          "time_info": "[00时30分 ~ 19时40分]"
         },
         {
           "title": "SK会长崔泰源警告：AI正在吞噬一切，今年千亿美元利润或瞬间变巨亏",
@@ -1167,17 +1197,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 10时07分]"
-        },
-        {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 18时58分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -1195,6 +1214,20 @@
           "time_info": "[00时30分 ~ 06时24分]"
         },
         {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时11分 ~ 19时40分]"
+        },
+        {
           "title": "无视海外“AI恐慌”，中国市场狂炒AI赢家",
           "url": "https://wallstreetcn.com/articles/3765955",
           "source": "华尔街见闻",
@@ -1208,20 +1241,6 @@
           "time_info": "[10时07分 ~ 16时51分]"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时11分 ~ 18时58分]"
-        },
-        {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
           "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
@@ -1230,8 +1249,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 18时58分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 19时40分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -1269,6 +1288,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
           "url": "https://flash.jin10.com/detail/20260223125210171800",
           "source": "金十数据",
@@ -1294,7 +1324,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -1326,33 +1356,69 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 19时40分]"
         },
         {
           "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时56分 ~ 19时40分]"
+        },
+        {
+          "title": "达美乐比萨第四季度营收15.4亿美元，预估15.2亿美元。 第四季度调整后每股收益5.35美元，预估5.37美元。 达美乐比萨美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/3057447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
           "url": "https://wallstreetcn.com/livenews/3057431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 19时40分]"
+        },
+        {
+          "title": "Arcellx美股盘前涨超76%，吉利德科学将以每股115美元的价格收购Arcellx。",
+          "url": "https://wallstreetcn.com/livenews/3057446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "19时40分"
+        },
+        {
+          "title": "特朗普关税被判违法 华尔街投行：哪些美股公司最受益？",
+          "url": "https://www.cls.cn/detail/2292391",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
         },
         {
           "title": "礼来(LLY.N)美股盘前上涨2.1%。",
@@ -1361,7 +1427,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         }
@@ -1383,8 +1449,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时35分 ~ 18时58分]"
+          "appearance_count": 15,
+          "time_info": "[02时35分 ~ 19时40分]"
         }
       ]
     }
