@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T14:21:06.514071+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-24T15:12:33.840791+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时12分]"
         },
         {
           "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
@@ -149,6 +149,19 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
+          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
+          "url": "https://www.cls.cn/detail/2293044",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时12分]"
+        },
+        {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
           "url": "https://www.cls.cn/detail/2292753",
           "source": "财联社热门",
@@ -188,17 +201,16 @@
           "time_info": "[02时03分 ~ 04时47分]"
         },
         {
-          "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
-          "url": "https://www.cls.cn/detail/2293044",
-          "source": "财联社热门",
+          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
+          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5,
-            4
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时12分]"
         },
         {
           "title": "特朗普否认美军将领“反对与伊朗开战”",
@@ -224,27 +236,15 @@
           "time_info": "05时46分"
         },
         {
-          "title": "特朗普接连出招，伤害性不大，侮辱性极强",
-          "url": "https://news.ifeng.com/c/8qzr8hme4jH",
+          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
+          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
           "source": "凤凰网",
           "ranks": [
-            7,
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 14时21分]"
-        },
-        {
-          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
-          "url": "https://flash.jin10.com/detail/20260224134038685800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时12分]"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -258,17 +258,6 @@
           "time_info": "03时57分"
         },
         {
-          "title": "特朗普发出邀请，美国女子冰球队：婉拒了哈",
-          "url": "https://news.ifeng.com/c/8r0DvNIO9e9",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
-        },
-        {
           "title": "联邦快递起诉美国，在最高法院推翻总统特朗普关税政策之后寻求政府全额退款。",
           "url": "https://wallstreetcn.com/livenews/3057695",
           "source": "华尔街见闻-快讯",
@@ -278,6 +267,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：伊朗应该达成协议。伊朗有机会达成协议。这是特朗普所希望的结果。如果伊朗决定不达成协议，我们将为特朗普准备选项。",
+          "url": "https://flash.jin10.com/detail/20260224134038685800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时12分]"
         },
         {
           "title": "德国10年期国债收益率跌约3个基点，特朗普关税带来的不确定性迫使投资者避险",
@@ -454,6 +455,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
+          "url": "https://www.cls.cn/detail/2293302",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府正在考虑对六种行业征收新的“国家安全关税”。",
           "url": "https://flash.jin10.com/detail/20260224064535357800",
           "source": "金十数据",
@@ -487,6 +499,17 @@
           "time_info": "04时47分"
         },
         {
+          "title": "特朗普：很多人想置我于死地",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%83%B3%E7%BD%AE%E6%88%91%E4%BA%8E%E6%AD%BB%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "美媒：尽管特朗普发文 但并无美国医院船奉命前往格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260224062743419800",
           "source": "金十数据",
@@ -518,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "特朗普第二任期首场国情咨文谈什么",
+          "url": "https://www.toutiao.com/trending/7610257077706457134/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "美国总统特朗普将在国情咨文演讲中宣传经济，并在中期选举前公布降低生活成本的新措施。",
@@ -622,7 +656,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -643,8 +677,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时12分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -695,15 +729,15 @@
           "time_info": "07时35分"
         },
         {
-          "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
-          "url": "https://wallstreetcn.com/livenews/3057701",
+          "title": "雷军：未来五年小米将重点攻坚芯片、AI、操作系统等底层核心技术",
+          "url": "https://wallstreetcn.com/livenews/3057929",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "15时12分"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -715,8 +749,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时12分]"
+        },
+        {
+          "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
+          "url": "https://wallstreetcn.com/livenews/3057701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
           "title": "“2028AI末日预言”吓坏市场，投资者掀起抛售潮，美股多板块盘中集体重挫",
@@ -727,8 +772,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时12分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -768,6 +813,20 @@
           "time_info": "[04时47分 ~ 05时46分]"
         },
         {
+          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
+          "url": "https://wallstreetcn.com/articles/3765997",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时45分 ~ 15时12分]"
+        },
+        {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
           "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
           "source": "澎湃新闻",
@@ -780,20 +839,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 10时39分]"
-        },
-        {
-          "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
-          "url": "https://wallstreetcn.com/articles/3765997",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时45分 ~ 14时21分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -816,11 +861,25 @@
           "ranks": [
             7,
             29,
-            8
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时12分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时39分 ~ 14时21分]"
+          "time_info": "[13时21分 ~ 15时12分]"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -835,6 +894,18 @@
           "time_info": "[04时47分 ~ 05时46分]"
         },
         {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时12分]"
+        },
+        {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
           "url": "https://flash.jin10.com/detail/20260224001507325800",
           "source": "金十数据",
@@ -847,18 +918,6 @@
           "time_info": "[00时31分 ~ 01时22分]"
         },
         {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时21分]"
-        },
-        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -869,17 +928,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -904,6 +952,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时47分]"
+        },
+        {
+          "title": "Citrini报告作者：文章引发的AI恐慌超预期",
+          "url": "https://wallstreetcn.com/livenews/3057915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
+          "url": "https://wallstreetcn.com/livenews/3057913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
@@ -939,6 +1009,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "专家称AI时代文科比理科吃香",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E6%96%87%E7%A7%91%E6%AF%94%E7%90%86%E7%A7%91%E5%90%83%E9%A6%99%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
           "url": "https://wallstreetcn.com/livenews/3057672",
           "source": "华尔街见闻-快讯",
@@ -953,7 +1034,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "春节假期，美国和伊朗闹到哪一步了？到底打还是不打？｜907编辑部",
@@ -965,8 +1046,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时35分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时35分 ~ 15时12分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -979,8 +1060,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 14时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 15时12分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -1061,11 +1142,25 @@
           "source": "抖音",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 15时12分]"
+        },
+        {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 15时12分]"
         },
         {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
@@ -1078,19 +1173,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32647811",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 14时21分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1128,6 +1210,28 @@
           "time_info": "05时46分"
         },
         {
+          "title": "据伊朗媒体24日报道，一架直升机在伊朗中部坠毁。（新华社）",
+          "url": "https://flash.jin10.com/detail/20260224142432525800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "伊朗伊斯法罕省发生一起直升机坠毁事故",
+          "url": "https://wallstreetcn.com/livenews/3057917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "伊朗",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1159,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "伊朗：战争的后果将“波及整个地区”",
+          "url": "https://www.toutiao.com/trending/7609899439436021823/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "内塔尼亚胡警告伊朗",
@@ -1265,8 +1380,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时21分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时21分 ~ 15时12分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
