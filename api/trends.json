@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T19:41:33.477295+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-02-25T21:04:31.126291+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -63,6 +63,18 @@
           "time_info": "[15时15分 ~ 16时50分]"
         },
         {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时04分]"
+        },
+        {
           "title": "特朗普发表国情咨文演讲，民主党议员举横幅被带离",
           "url": "https://news.ifeng.com/c/8r1qCIUuhrr",
           "source": "凤凰网",
@@ -72,18 +84,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 14时16分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时41分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -179,6 +179,17 @@
           "time_info": "[07时16分 ~ 07时42分]"
         },
         {
+          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
+          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时04分]"
+        },
+        {
           "title": "中美就特朗普访华事宜保持着沟通",
           "url": "https://www.douyin.com/hot/2410424",
           "source": "抖音",
@@ -192,15 +203,18 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
-          "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
-          "url": "https://news.ifeng.com/c/8r1wCrsmaVy",
-          "source": "凤凰网",
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
           "ranks": [
-            4
+            12,
+            8,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 21时04分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -217,18 +231,17 @@
           "time_info": "[04时35分 ~ 07时42分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            8,
-            6,
-            5
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时50分 ~ 19时41分]"
+          "time_info": "[17时55分 ~ 21时04分]"
         },
         {
           "title": "特朗普：伊朗正研制能打到美国的导弹",
@@ -264,19 +277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时41分]"
         },
         {
           "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
@@ -637,6 +637,17 @@
           "time_info": "16时50分"
         },
         {
+          "title": "特朗普：我们赢得太多了",
+          "url": "https://www.douyin.com/hot/2411181",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "特朗普国情咨文演讲大骂：这些人疯了",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E6%BC%94%E8%AE%B2%E5%A4%A7%E9%AA%82%EF%BC%9A%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%96%AF%E4%BA%86",
           "source": "百度热搜",
@@ -692,6 +703,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "白宫称特朗普对伊朗问题的首选手段永远是外交",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32650673",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美国总统特朗普：正与委内瑞拉“新总统”密切合作。",
           "url": "https://flash.jin10.com/detail/20260225114451548800",
           "source": "金十数据",
@@ -720,7 +742,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -893,7 +915,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -903,8 +925,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时42分 ~ 19时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时42分 ~ 21时04分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -964,8 +986,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时02分 ~ 19时41分]"
+          "appearance_count": 16,
+          "time_info": "[03时02分 ~ 21时04分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，AMD大涨近9%，金银回调",
@@ -988,11 +1010,26 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时13分 ~ 19时41分]"
+          "appearance_count": 17,
+          "time_info": "[01时13分 ~ 21时04分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 21时04分]"
         },
         {
           "title": "据The Information：一份关于Anthropic员工提出的涵盖近50个研究项目的备忘录显示，其关注重点在于恶意AI代理与欺骗性模型。",
@@ -1040,20 +1077,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时36分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 19时41分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -1175,6 +1198,20 @@
           "time_info": "01时13分"
         },
         {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            15,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时04分]"
+        },
+        {
           "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
           "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
           "source": "知乎",
@@ -1219,19 +1256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 07时42分]"
-        },
-        {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时41分]"
         },
         {
           "title": "AI如果让90%的人都失业会怎样",
@@ -1327,6 +1351,17 @@
           "time_info": "[15时15分 ~ 15时16分]"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -1347,6 +1382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
@@ -1517,7 +1563,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -1532,17 +1578,29 @@
           "time_info": "[01时13分 ~ 07时42分]"
         },
         {
+          "title": "德国外交部发言人就即将在日内瓦举行的伊核谈判表示，我们期待伊朗抓住机遇，以建设性方式参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202647910800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "伊朗大规模军演 试射多种导弹",
           "url": "https://www.douyin.com/hot/2410859",
           "source": "抖音",
           "ranks": [
             4,
             2,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时53分 ~ 19时41分]"
+          "appearance_count": 9,
+          "time_info": "[12时53分 ~ 21时04分]"
         },
         {
           "title": "美大军压境伊朗为何不屈服",
@@ -1579,8 +1637,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时41分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时04分]"
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
@@ -1639,6 +1697,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[01时13分 ~ 18时52分]"
+        },
+        {
+          "title": "据官方媒体报道，伊朗谈判代表团已离开德黑兰，前往日内瓦参加第三轮核谈判。",
+          "url": "https://flash.jin10.com/detail/20260225202053665800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -1815,7 +1884,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -1835,7 +1904,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -1934,6 +2003,18 @@
           "time_info": "[07时16分 ~ 07时42分]"
         },
         {
+          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3058828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 21时04分]"
+        },
+        {
           "title": "周二（2月24日）美股尾盘，彭博电动汽车价格回报指数涨1.66%，报3695.65点，亚太盘初以来持续走高，美股盘初显著加速。",
           "url": "https://wallstreetcn.com/livenews/3058334",
           "source": "华尔街见闻-快讯",
@@ -1945,15 +2026,15 @@
           "time_info": "05时35分"
         },
         {
-          "title": "劳氏第四季度调整后每股收益1.98美元，上年同期1.93美元，预估1.94美元。 第四季度销售净额205.8亿美元，同比增长11%，预估203.5亿美元。 第四季度同店销售增长1.3％，预估增长0.47％。 第四季度毛利66.8亿美元，同比增长9.6%，预估66.3亿美元。 劳氏预计全年调整后每股收益12.25美元至12.75美元。 劳氏预计全年调整后运营利润率11.6％至11.8％。 劳氏预计全年资本支出大约25亿美元，预估25亿美元。 劳氏美股盘前跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3058828",
+          "title": "甲骨文美股盘前涨3%，此前Oppenheimer将甲骨文评级从与大盘一致上调至“跑赢大盘”，目标价185美元。",
+          "url": "https://wallstreetcn.com/livenews/3058852",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "21时04分"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -2076,7 +2157,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周二（2月24日）纽约尾盘，美国10年期国债收益率涨1.76个基点，报4.0385%。 两年期美债收益率涨2.09个基点，报3.4590%；30年期美债收益率跌0.58个基点，报4.6962%。 2/10年期美债收益率利差跌1.124个基点，报+57.552个基点。 10年期通胀保值国债（TIPS）收益率持平，报1.7694%；两年期TIPS收益率涨2.23个基点，至0.7337%；30年期TIPS收益率跌1.06个基点，至2.4819%。",
@@ -2090,11 +2171,50 @@
           "time_info": "05时35分"
         },
         {
+          "title": "分析师：美债收益率加速攀升",
+          "url": "https://flash.jin10.com/detail/20260225200106256800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
           "url": "https://wallstreetcn.com/livenews/3058362",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2113,7 +2233,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -2145,23 +2265,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时55分 ~ 19时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
         }
       ]
     }
