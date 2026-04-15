@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T05:53:22.049423+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-04-16T06:41:29.452756+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 06时41分]"
         },
         {
           "title": "伊朗战争丨俄方：普京准备重新考虑接收伊朗浓缩铀",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时47分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时47分 ~ 06时41分]"
         },
         {
           "title": "美国被曝将向中东增派数千名士兵，施压伊朗达成协议",
@@ -63,17 +63,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "据华尔街日报：美国副总统万斯预计将主导未来与伊朗的任何高级别会谈。",
-          "url": "https://flash.jin10.com/detail/20260416050700610800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "美国财长贝森特：一直在与中东地区对口官员就伊朗石油危机进行会谈。 中东对口官员表示，一旦霍尔木兹海峡开放，他们可以立即开始运输石油。",
           "url": "https://wallstreetcn.com/livenews/3088700",
           "source": "华尔街见闻-快讯",
@@ -83,17 +72,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "【伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果】伊朗伊斯兰议会议长卡利巴夫16日通过社交媒体发表声明称，黎巴嫩全面停火协议的达成与巩固，归功于真主党的英勇抵抗和“抵抗之弧”力量的团结。卡利巴夫指出，美国必须严格遵守相关协议。他强调，无论是在战争时期还是停火阶段，伊朗与抵抗力量始终有着共同的意志。卡利巴夫同时呼吁，美国应当反思其外交政策，纠正“以色列优先”的错误立场，从这一错误路线中撤回。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3088792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "美国财长贝森特：汽油价格取决于伊朗战争谈判的走向。 预计汽油价格将“宜早不宜迟地”跌至3美元/加仑。 9月20日之前，就可以实现3美元的汽油价格。 今年夏季（驾车出行季）的汽油价格将更加低廉。",
@@ -107,6 +85,18 @@
           "time_info": "01时45分"
         },
         {
+          "title": "据华尔街日报：美国副总统万斯预计将主导未来与伊朗的任何高级别会谈。",
+          "url": "https://flash.jin10.com/detail/20260416050700610800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
+        },
+        {
           "title": "韩国向伊朗提供50万美元人道主义援助，称与霍尔木兹通行无关",
           "url": "https://news.ifeng.com/c/8sLg8QKvdGo",
           "source": "凤凰网",
@@ -114,8 +104,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
+        },
+        {
+          "title": "【伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果】伊朗伊斯兰议会议长卡利巴夫16日通过社交媒体发表声明称，黎巴嫩全面停火协议的达成与巩固，归功于真主党的英勇抵抗和“抵抗之弧”力量的团结。卡利巴夫指出，美国必须严格遵守相关协议。他强调，无论是在战争时期还是停火阶段，伊朗与抵抗力量始终有着共同的意志。卡利巴夫同时呼吁，美国应当反思其外交政策，纠正“以色列优先”的错误立场，从这一错误路线中撤回。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "伊朗美制通信设备遇袭时集体失灵",
@@ -128,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "伊朗或用3种手段反制美军封锁",
@@ -140,8 +142,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "定了，沃什即将登场，与伊朗谈判到期日同日，巧合还是宿命？",
@@ -152,8 +154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "美军称已完全切断伊朗海上进出口贸易，已拦截 8 艘进出伊朗港口的油轮，对其国内国际市场有何影响？",
@@ -163,11 +165,12 @@
             5,
             11,
             18,
-            19
+            19,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "伊朗警告美持续封锁是破坏停火前奏",
@@ -175,11 +178,12 @@
           "source": "微博",
           "ranks": [
             12,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 06时41分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
@@ -189,8 +193,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "伊朗军方回应美海上封锁",
@@ -204,17 +208,6 @@
           "time_info": "[01时44分 ~ 01时45分]"
         },
         {
-          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
-          "url": "https://wallstreetcn.com/livenews/3088787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
           "url": "https://wallstreetcn.com/articles/3770023",
           "source": "华尔街见闻",
@@ -222,8 +215,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时17分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时17分 ~ 06时41分]"
         },
         {
           "title": "【伊朗外交部发言人：伊美是否延长停火无法确认】伊朗外交部发言人巴加埃15日在首都德黑兰举行的记者会上表示，有关伊美延长停火的相关猜测尚无法确认，需观察美方就其宣称的外交立场是否具备实际诚意。 据伊朗伊斯兰共和国通讯社报道，巴加埃在回答关于“伊美停火是否可能延长，以及谈判中哪些问题取得相对进展”的提问时表示，美国“立场多次变化、表述相互矛盾”，即便达成某种共识，也难以确保其会履行。因此，伊美之间的对话是在非常复杂的情况下进行的。 谈及谈判进展，巴加埃表示，相关议题具有整体性，各项内容需作为一个整体加以推进。目前对话仍通过巴基斯坦作为中间方继续进行。（新华社）",
@@ -235,6 +228,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "英国央行行长贝利：通胀正在上升。 伊朗战争将对（经济）活动造成负面影响。 这是一个非常重大的能源冲击。 （伊朗战争产生的）增速和通胀影响难以权衡。 （美国和以色列发动）伊朗战争之前，我本来预计会降息1-2次。 当前，这不再是我们的中心预期。",
+          "url": "https://wallstreetcn.com/livenews/3088787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "伊朗总统N连问美国",
@@ -265,22 +270,24 @@
           "url": "https://flash.jin10.com/detail/20260416044116154800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国必须遵守协议。",
           "url": "https://flash.jin10.com/detail/20260416044056728800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "监测机构称伊朗出发的两艘船通过霍尔木兹，美军称上万人员执行伊港口“封锁令”，首日六船折返",
@@ -292,6 +299,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "美国中央司令部：昨天，一艘悬挂伊朗国旗的货船在离开霍尔木兹港后试图躲避美国的封锁，经过霍尔木兹海峡。美军成功拦截了这艘船，该船正返回伊朗。自周一美国封锁开始以来，已有十艘船被转回，零艘船成功突破。",
+          "url": "https://flash.jin10.com/detail/20260416043131098800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：欧洲央行可以花时间分析伊朗冲击。",
+          "url": "https://flash.jin10.com/detail/20260416043055184800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗和巴基斯坦将于周四在德黑兰详细讨论自周日以来伊朗与美国之间交换的信息。",
+          "url": "https://flash.jin10.com/detail/20260416043053830800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "伊朗要求五个地区国赔偿战争损失",
@@ -314,6 +357,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 04时48分]"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国封锁",
+          "url": "https://www.toutiao.com/trending/7628077805103792171/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "美国参议院投票，按52-47票阻止了一项决议，该决议旨在阻止美国在未经国会批准的情况下对伊朗发动进一步打击。",
@@ -349,17 +404,6 @@
           "time_info": "01时45分"
         },
         {
-          "title": "美国中央司令部：昨天，一艘悬挂伊朗国旗的货船在离开霍尔木兹港后试图躲避美国的封锁，经过霍尔木兹海峡。美军成功拦截了这艘船，该船正返回伊朗。自周一美国封锁开始以来，已有十艘船被转回，零艘船成功突破。",
-          "url": "https://flash.jin10.com/detail/20260416043131098800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "欧洲央行管委Nagel：不能排除4月加息可能性，因伊朗局势很不明朗",
           "url": "https://wallstreetcn.com/livenews/3088732",
           "source": "华尔街见闻-快讯",
@@ -369,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "伊朗最高领导人推动将黎巴嫩纳入美伊和谈",
+          "url": "https://wallstreetcn.com/livenews/3088800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "据半岛电视台：伊朗外交部长阿拉格奇在Telegram上发布了他在德黑兰与巴基斯坦代表团会面的视频，表明会晤正在进行中。",
@@ -382,15 +437,15 @@
           "time_info": "01时45分"
         },
         {
-          "title": "欧洲央行执委施纳贝尔：欧洲央行可以花时间分析伊朗冲击。",
-          "url": "https://flash.jin10.com/detail/20260416043055184800",
+          "title": "伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果",
+          "url": "https://flash.jin10.com/detail/20260416052231796800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时41分"
         },
         {
           "title": "消息称伊朗尚未同意延长停火请求 白宫否认正式请求延长停火",
@@ -404,17 +459,6 @@
           "time_info": "04时48分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗和巴基斯坦将于周四在德黑兰详细讨论自周日以来伊朗与美国之间交换的信息。",
-          "url": "https://flash.jin10.com/detail/20260416043053830800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "【报道：伊朗将评估是否与美国举行下一轮谈判】伊朗塔斯尼姆通讯社15日援引知情人士消息报道，伊朗方面与巴基斯坦陆军参谋长穆尼尔率领的代表团举行会晤后，将进行必要评估再决定是否与美国开展下一轮谈判。 该知情人士说，在黎巴嫩实现停火对伊朗参与下一轮谈判会是一个积极信号。与此同时，美方必须坚持合理的谈判框架，不能提出过分要求或违反停火前所作承诺。 15日早些时候，巴基斯坦军方发布声明说，穆尼尔和巴基斯坦内政部长穆赫辛·纳克维当天率领巴代表团抵达伊朗首都德黑兰，继续推进斡旋美国和伊朗谈判。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3088687",
           "source": "华尔街见闻-快讯",
@@ -424,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "新西兰建筑公司警示：受伊朗战争引发的燃料相关影响",
+          "url": "https://wallstreetcn.com/livenews/3088796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "俄总统新闻秘书：普京准备重新考虑接收伊朗浓缩铀",
@@ -490,17 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国封锁",
-          "url": "https://www.toutiao.com/trending/7628077805103792171/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "美国财长贝森特：昨天会见了阿联酋财政事务国务部长穆罕默德·本·哈迪·阿尔·侯赛尼，讨论美国与阿联酋之间持续推进的经济与金融合作。我们还讨论了在对伊朗问题上维持“最大压力”的重要性。",
@@ -704,7 +748,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -714,8 +758,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
@@ -725,19 +769,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "特朗普称美国对伊朗的战争已经结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "特朗普再次威胁袭击伊朗",
@@ -747,8 +792,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "据《今日美国》（USA Today）：美国国防部正悄然加强针对可能由五角大楼主导的对古巴行动的军事规划，以备特朗普下令干预。",
@@ -780,8 +825,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -791,8 +836,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
+        },
+        {
+          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
+          "url": "https://www.cls.cn/detail/2345350",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
@@ -802,42 +860,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
-        },
-        {
-          "title": "特朗普威胁：如果任期结束后鲍威尔不离职，他将强行解雇鲍威尔",
-          "url": "https://www.cls.cn/detail/2345350",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
           "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "特朗普禁令被绕过？Anthropic新模型魅力太大 美政府机构争相合作",
           "url": "https://www.cls.cn/detail/2344964",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "白宫：特朗普将提交“美国凯旋拱门”建设计划",
@@ -849,6 +897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "【特朗普：美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议】据美国方面15日消息，美国总统特朗普表示，美国“很有可能”在4月下旬英国国王查尔斯三世访美前与伊朗达成协议。特朗普在接受采访时称，当前达成协议的可能性“非常高”。根据安排，查尔斯三世及王后卡米拉将于4月27日至30日访问美国。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3088804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "市场消息：美国参议院以多数票否决了一项旨在迫使特朗普在未获国会批准的情况下停止对伊朗打击的努力，投票仍在继续。",
@@ -871,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美国总统特朗普将于周五在凤凰城讲话。",
+          "url": "https://wallstreetcn.com/livenews/3088799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "CFTC对特朗普对伊政策调整前的石油交易展开调查",
@@ -975,7 +1045,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
@@ -990,6 +1060,17 @@
           "time_info": "[01时44分 ~ 05时53分]"
         },
         {
+          "title": "美股收盘：标普历史首次征服7000点 算力巨头携手冲高",
+          "url": "https://www.cls.cn/detail/2345486",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "“市场已宣布胜利！”标普反弹10%、纳指十连涨：美股“不再关心”霍尔木兹，投资者“恐慌式买入”",
           "url": "https://wallstreetcn.com/articles/3769987",
           "source": "华尔街见闻",
@@ -997,19 +1078,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "美股期指基本持平 标普500指数冲击新高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2345247",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "金十图示：2026年04月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -1075,19 +1157,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
-          "url": "https://flash.jin10.com/detail/20260416050117948800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
@@ -1096,8 +1167,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
+        },
+        {
+          "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
+          "url": "https://flash.jin10.com/detail/20260416050117948800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -1110,8 +1193,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
@@ -1119,11 +1202,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时41分]"
+        },
+        {
+          "title": "美国参议院成员Whitehouse发函环境保护署（EPA），就（天然气发电站）燃机问题质问马斯克旗下人工智能初创公司xAI。",
+          "url": "https://wallstreetcn.com/livenews/3088802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "绩优基金一季报密集披露：多只基金规模大增，看多AI相关产业链",
+          "url": "https://wallstreetcn.com/livenews/3088801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         }
       ]
     },
@@ -1138,11 +1244,12 @@
           "ranks": [
             20,
             14,
-            18
+            18,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时44分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时44分 ~ 06时41分]"
         },
         {
           "title": "日本、英国2月增持美债",
@@ -1162,7 +1269,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -1188,11 +1295,12 @@
           "url": "https://flash.jin10.com/detail/20260416045257037800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "市场消息：谷歌母公司Alphabet有望从其对SpaceX的投资中获得约1000亿美元的巨额回报。",
@@ -1228,22 +1336,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 06时41分]"
         },
         {
           "title": "美元指数15日下跌",
           "url": "https://flash.jin10.com/detail/20260416044116972800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时41分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.00%，暂报2586.28点，北京时间03:26跌至2493.84点，随后持续上扬。 MarketVectorTM数字资产100中盘指数涨0.75%，报2788.46点，整体呈现出W形反转。 MarketVector数字资产100指数跌0.58%，报14776.01点。 目前，Solana涨0.70%，狗狗币涨1.73%，XRP涨1.43%。 比特币跌0.41%，暂报73948.86美元；以太坊涨1.16%，暂报2341.14美元。",
