@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T21:26:49.961260+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-04-22T23:13:30.335812+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 106,
+      "match_count": 112,
       "titles": [
         {
           "title": "美军高官：已准备好重启对伊朗作战行动",
@@ -77,6 +77,17 @@
           "time_info": "[10时31分 ~ 13时26分]"
         },
         {
+          "title": "伊朗战争丨美拦截货轮有“来自中国礼物”？中方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时13分]"
+        },
+        {
           "title": "伊朗最高领袖重申三项基本立场",
           "url": "https://news.ifeng.com/c/8sUi4SYlv7W",
           "source": "凤凰网",
@@ -108,17 +119,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
-        },
-        {
-          "title": "伊朗战争丨美拦截货轮有“来自中国礼物”？中方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗收到“某种迹象”，表明美国准备解除封锁。",
@@ -223,23 +223,6 @@
           "time_info": "[10时31分 ~ 17时21分]"
         },
         {
-          "title": "伊朗将恢复国内航班运营",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4,
-            10,
-            12,
-            13,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时01分 ~ 21时26分]"
-        },
-        {
           "title": "伊朗展示对美以作战所用导弹",
           "url": "https://news.ifeng.com/c/8sW9d3GOqRN",
           "source": "凤凰网",
@@ -252,6 +235,24 @@
           "time_info": "[10时31分 ~ 15时49分]"
         },
         {
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            10,
+            12,
+            13,
+            17,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时01分 ~ 23时13分]"
+        },
+        {
           "title": "伊朗拒谈判,美国延长停火",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
           "source": "贴吧",
@@ -259,11 +260,12 @@
             1,
             5,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 21时26分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 23时13分]"
         },
         {
           "title": "伊朗武装部队警告美国：随时准备开火",
@@ -472,6 +474,18 @@
           "time_info": "[13时26分 ~ 19时05分]"
         },
         {
+          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
+          "url": "https://wallstreetcn.com/articles/3770583",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时13分]"
+        },
+        {
           "title": "美军乘直升机垂直登临，拦截检查“涉伊朗油轮”",
           "url": "https://news.ifeng.com/c/8sWYIAnMiH0",
           "source": "凤凰网",
@@ -602,17 +616,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
-          "url": "https://wallstreetcn.com/articles/3770583",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "美国海军将继续封锁伊朗港口",
@@ -784,7 +787,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -883,9 +886,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "美国财政部长贝森特：否认伊朗通过制裁减免获得140亿美元。 如果不是出台制裁手段的话，石油价格可能已经涨至150美元。",
+          "url": "https://wallstreetcn.com/livenews/3092703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "伊朗基本物资供应为何不受封锁影响",
+          "url": "https://www.toutiao.com/trending/7631057559575871515/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "伊朗：已对无视警告的船只实施海上执法",
@@ -954,6 +979,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "塔斯尼姆通讯社：伊朗目前没有计划在周五与美国进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3092700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "伊朗媒体披露伊方拒绝出席巴基斯坦会谈原因",
           "url": "https://flash.jin10.com/detail/20260422063111735800",
           "source": "金十数据",
@@ -993,7 +1029,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -1004,7 +1040,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -1119,6 +1155,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国财长贝森特：美国财政部通过解除（伊朗）制裁，能够释放超过2.5亿桶水上石油，如果没有这一措施，价格将会更高。",
+          "url": "https://flash.jin10.com/detail/20260422223934039800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称扣押了两艘未授权船只",
           "url": "https://wallstreetcn.com/livenews/3092509",
           "source": "华尔街见闻-快讯",
@@ -1141,6 +1188,17 @@
           "time_info": "19时05分"
         },
         {
+          "title": "美国财长贝森特：伊朗因制裁解除可获140亿美元收益的说法“纯属无稽之谈”。",
+          "url": "https://flash.jin10.com/detail/20260422223837861800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "巴基斯坦与伊朗就确认代表团事宜保持持续联系。",
           "url": "https://wallstreetcn.com/livenews/3092022",
           "source": "华尔街见闻-快讯",
@@ -1150,6 +1208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗外长：是美国和以色列造成了霍尔木兹海峡当前局面",
+          "url": "https://wallstreetcn.com/livenews/3092690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "报道：一艘集装箱船遭到伊朗炮击 舰桥严重受损",
@@ -1232,7 +1301,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "沃什听证会强调美联储独立性，称绝不会成为特朗普的“提线木偶”，从未被要求作出降息承诺",
@@ -1244,8 +1313,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时11分 ~ 21时26分]"
+          "appearance_count": 14,
+          "time_info": "[03时11分 ~ 23时13分]"
         },
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -1255,8 +1324,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时13分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -1268,8 +1337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 21时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 23时13分]"
         },
         {
           "title": "伊朗战争丨特朗普宣布延长对伊朗停火",
@@ -1352,6 +1421,22 @@
           "time_info": "[01时01分 ~ 17时21分]"
         },
         {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 23时13分]"
+        },
+        {
           "title": "特朗普：预计美伊将达成“重大协议”，如果沃什不迅速降息将会感到失望",
           "url": "https://wallstreetcn.com/articles/3770519",
           "source": "华尔街见闻",
@@ -1380,6 +1465,21 @@
           "time_info": "[01时01分 ~ 10时31分]"
         },
         {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 23时13分]"
+        },
+        {
           "title": "特朗普称美伊停火到期将继续轰炸",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%88%B0%E6%9C%9F%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BD%B0%E7%82%B8%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1396,21 +1496,6 @@
           "time_info": "[01时01分 ~ 07时35分]"
         },
         {
-          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
-          "url": "https://wallstreetcn.com/articles/3770527",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 21时26分]"
-        },
-        {
           "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
           "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
           "source": "凤凰网",
@@ -1420,21 +1505,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时35分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14,
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 21时26分]"
         },
         {
           "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
@@ -1462,6 +1532,28 @@
           "time_info": "07时35分"
         },
         {
+          "title": "据称特朗普将再给伊朗3至5天停火时间",
+          "url": "https://www.cls.cn/detail/2352682",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美媒：特朗普再给伊朗3至5天停火时间",
+          "url": "https://news.ifeng.com/c/8sXS8jC94HP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "特朗普称美国拦截的伊朗货轮可能载有“来自中国的礼物”，外交部回应",
           "url": "https://flash.jin10.com/detail/20260422183850895800",
           "source": "金十数据",
@@ -1471,6 +1563,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时05分"
+        },
+        {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时13分]"
         },
         {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
@@ -1553,18 +1658,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时49分 ~ 19时05分]"
-        },
-        {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时26分]"
         },
         {
           "title": "伊朗最高联合军事指挥部警告称，鉴于特朗普的反复威胁，将对预定目标进行“强有力的攻击”。",
@@ -1738,7 +1831,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -1886,13 +1979,46 @@
           "time_info": "04时53分"
         },
         {
+          "title": "贝森特：特朗普很擅长降低能源成本",
+          "url": "https://wallstreetcn.com/livenews/3092691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "精神航空（Spirit Aviation）场外交易股价上涨36.7%至0.82美元，此前有报道称特朗普政府接近达成对精神航空的救助。",
+          "url": "https://flash.jin10.com/detail/20260422223809289800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美国知情人士称：总统特朗普愿意额外给予伊朗3-5天停火时间。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3092689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "市场消息：特朗普政府劳工机构计划简化“共同雇主”规则。特朗普此前制定的相关标准已被联邦法官裁定无效。",
           "url": "https://flash.jin10.com/detail/20260422204829014800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -1911,7 +2037,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -2035,11 +2161,24 @@
           "ranks": [
             8,
             3,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 21时26分]"
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 23时13分]"
+        },
+        {
+          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
+          "url": "https://www.cls.cn/detail/2352317",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时05分 ~ 23时13分]"
         },
         {
           "title": "若干未经授权的用户接入Anthropic的AI模型Mythos。",
@@ -2054,18 +2193,6 @@
           "time_info": "[05时45分 ~ 06时38分]"
         },
         {
-          "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
-          "url": "https://www.cls.cn/detail/2352317",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 21时26分]"
-        },
-        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
@@ -2076,6 +2203,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 10时31分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14,
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 23时13分]"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -2092,19 +2235,17 @@
           "time_info": "[01时01分 ~ 07时35分]"
         },
         {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
+          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
+          "url": "https://www.cls.cn/detail/2352172",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            17,
-            14,
             10,
+            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 21时26分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时13分]"
         },
         {
           "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
@@ -2132,18 +2273,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时31分 ~ 15时49分]"
-        },
-        {
-          "title": "【每日收评】沪指重返4100点，创业板综指创历史新高，AI算力链再迎全线爆发",
-          "url": "https://www.cls.cn/detail/2352172",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时26分]"
         },
         {
           "title": "Meta将跟踪美国员工工作流程数据，从而进行AI训练。（路透）",
@@ -2174,9 +2303,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时13分]"
+        },
+        {
+          "title": "用AI办了场车展",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时13分]"
         },
         {
           "title": "意大利能源服务公司Saipem首席执行官：集团将在6月和7月为卡塔尔的两个项目运输物资，并需穿越霍尔木兹海峡。",
@@ -2202,18 +2354,6 @@
           "time_info": "[04时53分 ~ 05时45分]"
         },
         {
-          "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025322",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时26分]"
-        },
-        {
           "title": "AI艺人库言论为何惹争议",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E8%A8%80%E8%AE%BA%E4%B8%BA%E4%BD%95%E6%83%B9%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -2223,17 +2363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "用AI办了场车展",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E8%BD%A6%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "日本财务大臣将就AI模型威胁与银行业会面",
@@ -2253,7 +2382,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2326,6 +2455,17 @@
           "time_info": "[06时38分 ~ 07时35分]"
         },
         {
+          "title": "谷歌公司：Drive Now现在普遍可以使用Gemini和AI概览。",
+          "url": "https://wallstreetcn.com/livenews/3092705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3092463",
           "source": "华尔街见闻-快讯",
@@ -2348,13 +2488,24 @@
           "time_info": "10时31分"
         },
         {
+          "title": "谷歌：Google Drive中的AI概览功能现已普遍可用。",
+          "url": "https://flash.jin10.com/detail/20260422224544540800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "谷歌云AI使用量达到每分钟160亿Tokens。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3092620",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2365,9 +2516,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "达美航空、美国航空公司、美联航股价跌幅扩大，华尔街日报报道称，特朗普政府接近达成对Spirit Airlines的救助协议——金额大约5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3092699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "据AXIOS：OpenAI已就一款新的网络安全产品向美国联邦政府及“五眼联盟”进行了简报。",
@@ -2442,7 +2604,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2456,6 +2618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "硅谷精神之父谈AI时代",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%85%E8%B0%B7%E7%B2%BE%E7%A5%9E%E4%B9%8B%E7%88%B6%E8%B0%88AI%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "用AI真的会让人变笨吗",
@@ -2497,7 +2670,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2516,7 +2689,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -2527,8 +2700,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时35分 ~ 21时26分]"
+          "appearance_count": 9,
+          "time_info": "[07时35分 ~ 23时13分]"
         },
         {
           "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
@@ -2612,7 +2785,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2627,6 +2800,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时49分 ~ 17时21分]"
+        },
+        {
+          "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
+          "url": "https://wallstreetcn.com/articles/3770587",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "GE Vernova美股盘前拉升，现涨超4%，公司一季度营收高于预估。",
@@ -2651,6 +2835,17 @@
           "time_info": "19时05分"
         },
         {
+          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2352533",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 23时13分]"
+        },
+        {
           "title": "GE Vernova第一季度营收93.4 亿美元，预期91.1亿美元。 第一季度每股收益17.44 美元，去年同期为91美分。 GE Vernova预计全年营收445亿至455亿美元，此前预期为440亿至450亿美元。 GE Vernova美股盘前微涨。",
           "url": "https://wallstreetcn.com/livenews/3092532",
           "source": "华尔街见闻-快讯",
@@ -2672,17 +2867,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 06时38分]"
-        },
-        {
-          "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2352533",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时26分"
         },
         {
           "title": "周二（4月21日），美股行业ETF普遍收跌，全球航空业ETF收跌2.90%，公用事业ETF、区域银行ETF、银行业ETF、医疗业ETF、生物科技指数ETF跌1.75%-1.01%，半导体ETF涨0.15%，能源业ETF涨1.45%。",
@@ -2732,7 +2916,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌云与Collibra宣布扩大合作伙伴关系。（彭博）",
@@ -2741,7 +2925,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2752,7 +2936,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2763,9 +2947,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
+        },
+        {
+          "title": "谷歌：Google Drive中的Gemini现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20260422224338586800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "谷歌：Gemini Enterprise第一季度付费月活跃用户数环比增长40%。 目前谷歌所有新代码中，75%由人工智能生成。",
@@ -2774,7 +2969,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2785,7 +2980,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2796,7 +2991,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2818,7 +3013,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2829,7 +3024,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         },
@@ -2840,7 +3035,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
