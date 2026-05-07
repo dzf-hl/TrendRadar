@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T14:28:54.346581+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-05-07T17:33:01.265071+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 73,
       "titles": [
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -42,6 +42,17 @@
           "time_info": "[00时27分 ~ 05时58分]"
         },
         {
+          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
+          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 17时33分]"
+        },
+        {
           "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
           "url": "https://news.ifeng.com/c/8suoch3QkWe",
           "source": "凤凰网",
@@ -53,15 +64,15 @@
           "time_info": "[07时31分 ~ 07时54分]"
         },
         {
-          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
-          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "title": "伊朗战争丨美在霍尔木兹海峡搞事，为何找中国背书",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 14时28分]"
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "伊朗战争丨伊朗确认：将在赛前14天抵美参加世界杯",
@@ -139,8 +150,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 14时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 17时33分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -166,6 +177,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 17时33分]"
         },
         {
           "title": "知情人：伊朗将同意将铀浓缩材料运出",
@@ -228,16 +252,28 @@
           "time_info": "[07时31分 ~ 07时54分]"
         },
         {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
+          "title": "伊朗外长用中文发帖“信任中方”",
+          "url": "https://www.toutiao.com/trending/7636366888520892459/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时28分]"
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
+          "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
+          "url": "https://www.cls.cn/detail/2364403",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 17时33分]"
         },
         {
           "title": "法国财政部：数据显示，法国精炼油销售毛利润已经恢复至（与伊朗战争相关的）危机爆发之前的水平。 由于需求减少，法国4月份车用燃料消费量下降11%。 政府将继续密切关注利润率，以确保其不会过度上涨。",
@@ -298,18 +334,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
-          "url": "https://www.cls.cn/detail/2364403",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 14时28分]"
-        },
-        {
           "title": "伊朗议长：“敌人”施经济压力，官民要团结应对",
           "url": "https://wallstreetcn.com/livenews/3099604",
           "source": "华尔街见闻-快讯",
@@ -343,6 +367,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗称正在「评估」美方提出的停战谅解备忘录，美伊谈判的曙光出现了吗？",
+          "url": "https://www.zhihu.com/question/2035461412533658729",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
+          "title": "伊朗外长用中文发帖：信任中方",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%8F%91%E5%B8%96%EF%BC%9A%E4%BF%A1%E4%BB%BB%E4%B8%AD%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：“信我啦兄弟行动”（Trust Me Bro）失败了。现在回到常规，启动“假装行动”（Operation Fauxios，疑似讽刺美媒Axios的报道）。",
@@ -467,6 +513,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "伊朗称在霍尔木兹海峡上空击落美军无人机",
+          "url": "https://wallstreetcn.com/livenews/3099877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "伊朗国防部发言人：美国必须和以色列保持距离",
           "url": "https://wallstreetcn.com/livenews/3099500",
           "source": "华尔街见闻-快讯",
@@ -484,7 +541,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -509,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美媒：至少228个美军资产在伊朗战事中受损",
+          "url": "https://wallstreetcn.com/livenews/3099875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "伊朗外长阿拉格齐抵达北京",
@@ -550,7 +618,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -643,6 +711,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "伊朗将为霍尔木兹海峡船只提供服务",
+          "url": "https://wallstreetcn.com/livenews/3099870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "伊朗称各港口准备好提供一般海事服务",
           "url": "https://www.toutiao.com/trending/7636624059102674980/",
           "source": "今日头条",
@@ -715,7 +794,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -756,7 +835,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -776,7 +855,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -790,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "特朗普：对伊行动“进展顺利”，强调封锁与谈判并行",
@@ -866,6 +956,17 @@
           "time_info": "[02时16分 ~ 07时54分]"
         },
         {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 17时33分]"
+        },
+        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
           "source": "澎湃新闻",
@@ -879,17 +980,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时54分]"
-        },
-        {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 14时28分]"
         },
         {
           "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
@@ -912,6 +1002,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 17时33分]"
         },
         {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
@@ -971,17 +1073,6 @@
           "time_info": "[07时31分 ~ 07时54分]"
         },
         {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
-        },
-        {
           "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260507012738943800",
           "source": "金十数据",
@@ -1010,7 +1101,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1161,7 +1252,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
@@ -1182,7 +1273,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1259,6 +1350,18 @@
           "time_info": "[02时16分 ~ 10时47分]"
         },
         {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 17时33分]"
+        },
+        {
           "title": "OpenAI 推出 GPT-5.5 Instant，有哪些值得关注的技术亮点？使用感受如何？",
           "url": "https://www.zhihu.com/question/2035283954274493764",
           "source": "知乎",
@@ -1270,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 05时58分]"
+        },
+        {
+          "title": "“湖北惊现人造毒大米”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 17时33分]"
         },
         {
           "title": "火到欧美的韩国棒球女神是AI生成",
@@ -1297,15 +1411,15 @@
           "time_info": "[07时31分 ~ 07时54分]"
         },
         {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
           "ranks": [
-            7
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "比亚迪正式加入IATF AISBL",
@@ -1314,20 +1428,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
         {
-          "title": "“湖北惊现人造毒大米”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B9%96%E5%8C%97%E6%83%8A%E7%8E%B0%E4%BA%BA%E9%80%A0%E6%AF%92%E5%A4%A7%E7%B1%B3%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
+          "title": "AMD股价暴涨19%！华尔街密集上调目标价 代理式AI引爆CPU需求",
+          "url": "https://www.cls.cn/detail/2364555",
+          "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 14时28分]"
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "黄仁勋：美国应保持AI领先地位",
@@ -1402,7 +1516,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1424,7 +1538,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1446,7 +1560,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -1509,7 +1623,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -1519,8 +1633,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[07时31分 ~ 17时33分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -1607,6 +1721,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260507040528145800",
           "source": "金十数据",
@@ -1662,6 +1787,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3099863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
           "url": "https://wallstreetcn.com/livenews/3099560",
           "source": "华尔街见闻-快讯",
@@ -1687,7 +1823,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
@@ -1699,6 +1835,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时54分]"
+        },
+        {
+          "title": "金价今年或涨至5200美元",
+          "url": "https://www.douyin.com/hot/2491112",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "金价涨2.8%，逼近4700美元",
@@ -1725,8 +1872,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时47分"
+          "appearance_count": 3,
+          "time_info": "[10时47分 ~ 17时33分]"
         },
         {
           "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
