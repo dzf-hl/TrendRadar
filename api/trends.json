@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T16:04:28.824727+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-09T17:20:19.109049+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时17分 ~ 16时04分]"
+          "appearance_count": 11,
+          "time_info": "[03时17分 ~ 17时20分]"
         },
         {
           "title": "伊朗战争丨因储油罐已满而向大海排石油？伊朗回应",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
         },
         {
           "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
@@ -86,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 16时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 17时20分]"
         },
         {
           "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
@@ -124,6 +124,18 @@
           "time_info": "[01时17分 ~ 07时56分]"
         },
         {
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
+        },
+        {
           "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
           "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
           "source": "澎湃新闻",
@@ -139,18 +151,6 @@
           "time_info": "[01时17分 ~ 13时49分]"
         },
         {
-          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
-          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
-        },
-        {
           "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
           "url": "https://wallstreetcn.com/articles/3771825",
           "source": "华尔街见闻",
@@ -162,6 +162,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗足协公布参加2026年美加墨世界杯10项条件",
+          "url": "https://wallstreetcn.com/livenews/3101035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "伊朗外长与英国外交大臣通电话。（IRIB）",
@@ -261,11 +272,23 @@
           "url": "https://wallstreetcn.com/livenews/3101019",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 17时20分]"
+        },
+        {
+          "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
+          "url": "https://flash.jin10.com/detail/20260509161138773800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时04分"
+          "time_info": "17时20分"
         },
         {
           "title": "伊朗官员：最高领袖非常健康",
@@ -301,6 +324,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "美伊交火意味着此轮谈判破裂？伊朗大使答凤凰提问",
+          "url": "https://news.ifeng.com/c/8szLTDMoDY1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "伊朗议会将以视频方式召开战事爆发以来首次会议",
+          "url": "https://wallstreetcn.com/livenews/3101028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "遭美国扣押的伊朗货船抵达巴基斯坦卡拉奇港",
@@ -408,7 +453,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -419,7 +464,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         },
@@ -559,7 +604,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
@@ -593,28 +638,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
-        },
-        {
-          "title": "伊朗外交部发言人：（特朗普的）“挑衅性行为”以及为其辩护的企图，都掩盖不了其自身的可耻行径。这预示着美伊紧张局势将进一步升级。",
-          "url": "https://flash.jin10.com/detail/20260509155826291800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
-          "title": "伊朗外交部发言人强烈谴责特朗普近期就美国对伊朗油轮发动袭击所发表的淡化言论。",
-          "url": "https://flash.jin10.com/detail/20260509155657238800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
         },
         {
           "title": "特朗普：俄乌9日起停火三天并交换战俘",
@@ -664,6 +687,18 @@
           "time_info": "[01时17分 ~ 16时04分]"
         },
         {
+          "title": "伊朗外交部发言人：（特朗普的）“挑衅性行为”以及为其辩护的企图，都掩盖不了其自身的可耻行径。这预示着美伊紧张局势将进一步升级。",
+          "url": "https://flash.jin10.com/detail/20260509155826291800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 17时20分]"
+        },
+        {
           "title": "戴尔股价涨幅扩大至9.1%，特朗普推销该公司产品",
           "url": "https://wallstreetcn.com/livenews/3100857",
           "source": "华尔街见闻-快讯",
@@ -674,6 +709,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 03时17分]"
+        },
+        {
+          "title": "伊朗外交部发言人强烈谴责特朗普近期就美国对伊朗油轮发动袭击所发表的淡化言论。",
+          "url": "https://flash.jin10.com/detail/20260509155657238800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 17时20分]"
         },
         {
           "title": "特朗普媒体科技集团一季度资产规模22亿美元。 一季度营收90万美元，净亏损4.059亿美元，调整后EBITDA亏损3.878亿美元。 一季度运营现金流0.179亿美元。",
@@ -696,8 +743,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -714,6 +761,17 @@
           "time_info": "[01时17分 ~ 07时56分]"
         },
         {
+          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
+          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33122464",
           "source": "澎湃新闻",
@@ -726,15 +784,16 @@
           "time_info": "[01时17分 ~ 07时56分]"
         },
         {
-          "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
-          "url": "https://news.ifeng.com/c/8sytAKXfO4y",
-          "source": "凤凰网",
+          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
+          "url": "https://wallstreetcn.com/articles/3771870",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 17时20分]"
         },
         {
           "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
@@ -773,6 +832,18 @@
           "time_info": "[07时56分 ~ 10时46分]"
         },
         {
+          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
+          "url": "https://www.zhihu.com/question/2036400046988579032",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普称俄乌9日起停火三天并交换战俘",
           "url": "https://flash.jin10.com/detail/20260509024102423800",
           "source": "金十数据",
@@ -806,17 +877,6 @@
           "time_info": "07时56分"
         },
         {
-          "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
-          "url": "https://wallstreetcn.com/articles/3771870",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
-        },
-        {
           "title": "美国总统特朗普：我们有一个问题，因为墨西哥由毒贩们经营。",
           "url": "https://wallstreetcn.com/livenews/3100846",
           "source": "华尔街见闻-快讯",
@@ -829,15 +889,15 @@
           "time_info": "[01时17分 ~ 03时17分]"
         },
         {
-          "title": "特朗普称俄乌 9 日起停火三天，互换千名战俘，俄乌为何同意特朗普的提议？各方背后有着怎样的考量？",
-          "url": "https://www.zhihu.com/question/2036400046988579032",
-          "source": "知乎",
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "美国总统特朗普：俄罗斯与乌克兰之间将停火三天（5月9-11日）。",
@@ -1074,7 +1134,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -1106,11 +1166,25 @@
           "ranks": [
             9,
             4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
+        },
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
         },
         {
           "title": "私募和AI合体意味着什么",
@@ -1128,17 +1202,18 @@
           "time_info": "[01时17分 ~ 10时46分]"
         },
         {
-          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
-          "url": "https://wallstreetcn.com/articles/3771864",
-          "source": "华尔街见闻",
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            6,
+            14,
+            11,
+            9,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
         },
         {
           "title": "GAI新歌星梦MV",
@@ -1155,17 +1230,31 @@
           "time_info": "[01时17分 ~ 16时04分]"
         },
         {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            11,
-            9
+            20,
+            18,
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
+        },
+        {
+          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
+          "url": "https://www.cls.cn/detail/2366780",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 17时20分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -1177,19 +1266,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 06时06分]"
-        },
-        {
-          "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120610",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
         },
         {
           "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
@@ -1216,38 +1292,28 @@
           "time_info": "[07时56分 ~ 10时46分]"
         },
         {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
+          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
+          "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时49分 ~ 16时04分]"
+          "time_info": "[16时03分 ~ 17时20分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
           "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 16时04分]"
-        },
-        {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 16时04分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 17时20分]"
         },
         {
           "title": "Forward Air Corp.（FWRD）收跌43%，创1999年以来最差单日表现。",
@@ -1272,6 +1338,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时06分]"
+        },
+        {
+          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
+          "url": "https://wallstreetcn.com/articles/3771878",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
@@ -1364,8 +1441,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 16时04分]"
+          "appearance_count": 6,
+          "time_info": "[10时45分 ~ 17时20分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -1377,8 +1454,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 16时04分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 17时20分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
@@ -1537,7 +1614,7 @@
     },
     {
       "keyword_group": "字节跳动 豆包",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "央媒评“豆包”推出付费模式：探索商业化路径无可厚非，但应兼顾用户消费能力",
@@ -1551,6 +1628,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 07时56分]"
+        },
+        {
+          "title": "据悉字节跳动计划将AI基础设施支出增加25%",
+          "url": "https://flash.jin10.com/detail/20260509162004695800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "字节跳动已将今年的AI基础设施支出计划增加25%至2,000亿元人民币。（南华早报）",
+          "url": "https://wallstreetcn.com/livenews/3101029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
