@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T14:37:21.336638+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-05-12T17:40:00.046370+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -55,6 +55,18 @@
           "time_info": "[01时24分 ~ 06时54分]"
         },
         {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 17时39分]"
+        },
+        {
           "title": "外交部介绍特朗普访华安排和中方期待",
           "url": "https://www.toutiao.com/trending/7638111822163496490/",
           "source": "今日头条",
@@ -92,17 +104,6 @@
           "time_info": "[01时24分 ~ 07时58分]"
         },
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 14时37分]"
-        },
-        {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
           "url": "https://www.cls.cn/detail/2368498",
           "source": "财联社热门",
@@ -115,29 +116,31 @@
           "time_info": "[07时58分 ~ 14时37分]"
         },
         {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时37分]"
-        },
-        {
           "title": "外交部介绍特朗普访华具体安排",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
           "source": "bilibili 热搜",
           "ranks": [
             5,
             8,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 14时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 17时39分]"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 17时39分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -189,6 +192,19 @@
           "time_info": "[07时58分 ~ 14时37分]"
         },
         {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 17时39分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
           "url": "https://flash.jin10.com/detail/20260512010045688800",
           "source": "金十数据",
@@ -210,19 +226,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 03时51分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 14时37分]"
         },
         {
           "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
@@ -259,15 +262,52 @@
           "time_info": "01时25分"
         },
         {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时39分]"
+        },
+        {
+          "title": "特朗普访华传递了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时39分]"
+        },
+        {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 17时39分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时38分 ~ 14时37分]"
+          "time_info": "[14时37分 ~ 17时39分]"
         },
         {
           "title": "马斯克库克将陪同特朗普访华",
@@ -342,18 +382,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -402,17 +431,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "特朗普访华传递了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
           "url": "https://wallstreetcn.com/livenews/3101777",
           "source": "华尔街见闻-快讯",
@@ -424,24 +442,13 @@
           "time_info": "01时25分"
         },
         {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "如何看待特朗普撮合英特尔重新回到苹果核心供应链中？",
           "url": "https://www.zhihu.com/question/2037109518547380076",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -565,6 +572,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "伊朗最高领袖顾问：很明显，美国五角大楼隐瞒了美军阵亡人数，而特朗普选择了相信。",
@@ -702,7 +720,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -722,9 +740,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -736,6 +765,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时24分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时39分]"
         },
         {
           "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
@@ -772,15 +813,15 @@
           "time_info": "07时58分"
         },
         {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "17时39分"
         },
         {
           "title": "据伊拉克媒体：消息人士称，伊朗已指示有意加入伊拉克新内阁的各派武装，不得上缴自身武器。",
@@ -849,6 +890,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时54分]"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "美国财政部：发布新的伊朗相关制裁。",
@@ -970,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗革命卫队称一艘美舰遭伊方开火警告",
+          "url": "https://wallstreetcn.com/livenews/3102175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         },
         {
           "title": "据伊朗Press TV：伊朗负责法律事务的副外长加里巴巴迪与挪威副外长、金砖国家新开发银行行长以及法国大使举行了会谈。",
@@ -1118,33 +1181,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 14时37分]"
-        },
-        {
-          "title": "把AI用到了最有意义的场合",
-          "url": "https://www.douyin.com/hot/2495756",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8,
-            7,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 17时39分]"
         },
         {
           "title": "期权疯狂看涨+技术面破位！被AI行情遗忘的白银杀回来了？",
@@ -1156,6 +1205,22 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "把AI用到了最有意义的场合",
+          "url": "https://www.douyin.com/hot/2495756",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8,
+            7,
+            1,
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 17时39分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -1170,8 +1235,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 14时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 17时39分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -1186,8 +1251,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 14时37分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 17时39分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -1220,11 +1285,24 @@
           "url": "https://www.cls.cn/detail/2368705",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时39分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时39分]"
         },
         {
           "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
@@ -1284,17 +1362,6 @@
           "time_info": "[01时24分 ~ 01时25分]"
         },
         {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "德国思爱普Sap与CyberWave在Sap的实时物流仓库部署全自动AI机器人。",
           "url": "https://wallstreetcn.com/livenews/3101783",
           "source": "华尔街见闻-快讯",
@@ -1339,6 +1406,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "OpenAI预计：在与微软的最新协议下，到2030年公司将节省970亿美元",
+          "url": "https://wallstreetcn.com/livenews/3102179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
           "url": "https://flash.jin10.com/detail/20260512065650611800",
           "source": "金十数据",
@@ -1367,9 +1445,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "报道：特斯拉AI6.5芯片或转移至英特尔",
+          "url": "https://wallstreetcn.com/livenews/3102164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
         }
       ]
     },
@@ -1377,6 +1466,18 @@
       "keyword_group": "美股",
       "match_count": 17,
       "titles": [
+        {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时53分 ~ 17时39分]"
+        },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
           "url": "https://wallstreetcn.com/articles/3771942",
@@ -1387,17 +1488,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 05时17分]"
-        },
-        {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时53分 ~ 14时37分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1431,9 +1521,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 17时39分]"
         },
         {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
@@ -1456,8 +1546,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 17时39分]"
         },
         {
           "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
@@ -1616,7 +1706,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
