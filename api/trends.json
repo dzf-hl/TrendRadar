@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T17:56:23.112428+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-05-15T19:57:20.896290+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 95,
       "titles": [
         {
           "title": "详讯丨习近平同美国总统特朗普会谈",
@@ -109,6 +109,39 @@
           "time_info": "[01时02分 ~ 06时12分]"
         },
         {
+          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
+        },
+        {
+          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普结束访华 乘专机离开北京",
+          "url": "https://www.douyin.com/hot/2499944",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
+        },
+        {
           "title": "习近平同特朗普在中南海小范围会晤",
           "url": "https://www.toutiao.com/trending/7638832901685251590/",
           "source": "今日头条",
@@ -120,26 +153,26 @@
           "time_info": "[11时55分 ~ 14时56分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
-          "source": "澎湃新闻",
+          "title": "特朗普结束访华 登空军一号挥手告别",
+          "url": "https://www.toutiao.com/trending/7639187811891904539/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
-          "title": "特朗普结束访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
+          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
           "title": "习近平同美国总统特朗普会谈",
@@ -154,49 +187,39 @@
           "time_info": "[01时02分 ~ 11时55分]"
         },
         {
-          "title": "特朗普结束访华 乘专机离开北京",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E+%E4%B9%98%E4%B8%93%E6%9C%BA%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
-        },
-        {
-          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
+          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
         },
         {
-          "title": "特朗普结束访华 乘专机离开北京",
-          "url": "https://www.douyin.com/hot/2499944",
-          "source": "抖音",
+          "title": "国际社会是怎样看待特朗普本次访华行程的？",
+          "url": "https://www.zhihu.com/question/2038010908488590805",
+          "source": "知乎",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
-        },
-        {
-          "title": "特朗普结束访华 登空军一号挥手告别",
-          "url": "https://www.toutiao.com/trending/7639187811891904539/",
-          "source": "今日头条",
-          "ranks": [
+            5,
+            2,
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普结束访华离开北京",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
           "title": "习近平同特朗普在中南海小范围会晤",
@@ -208,17 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
-          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "特朗普称对伊朗的耐心已所剩无几",
@@ -243,28 +255,16 @@
           "time_info": "06时12分"
         },
         {
-          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
-          "source": "澎湃新闻",
+          "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
+          "url": "https://www.zhihu.com/question/2038626152567281104",
+          "source": "知乎",
           "ranks": [
+            2,
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
-        },
-        {
-          "title": "国际社会是怎样看待特朗普本次访华行程的？",
-          "url": "https://www.zhihu.com/question/2038010908488590805",
-          "source": "知乎",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
           "title": "特朗普结束访华 将乘专机离开北京",
@@ -289,17 +289,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "特朗普结束访华离开北京",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "CIA官员：CIA局长向古巴方面传达了特朗普的信息：如果古巴作出“根本性改变”，美国准备在经济与安全议题上展开接触。",
           "url": "https://flash.jin10.com/detail/20260515053621329800",
           "source": "金十数据",
@@ -311,15 +300,15 @@
           "time_info": "06时12分"
         },
         {
-          "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
-          "url": "https://www.zhihu.com/question/2038626152567281104",
-          "source": "知乎",
+          "title": "德国总理默茨：与特朗普讨论了乌克兰问题，“协调了我们双方的立场”。",
+          "url": "https://flash.jin10.com/detail/20260515194915313800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时57分"
         },
         {
           "title": "特朗普访华，为什么首选去天坛参观而不是其他地方？",
@@ -344,6 +333,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 11时55分]"
+        },
+        {
+          "title": "德国总理默茨：与美国总统特朗普达成共识，伊朗必须回到谈判桌上。",
+          "url": "https://flash.jin10.com/detail/20260515194854340800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "特朗普结束访华 乘专机离开北京",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E+%E4%B9%98%E4%B8%93%E6%9C%BA%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
         },
         {
           "title": "特朗普称赞“中国太美了”",
@@ -373,16 +386,16 @@
           "time_info": "[01时02分 ~ 11时55分]"
         },
         {
-          "title": "特朗普：热情期待在华盛顿接待习主席",
-          "url": "https://www.toutiao.com/trending/7638941233318104619/",
-          "source": "今日头条",
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
+            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普参观天坛",
@@ -397,16 +410,53 @@
           "time_info": "[01时02分 ~ 14时56分]"
         },
         {
-          "title": "习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://wallstreetcn.com/articles/3772334",
-          "source": "华尔街见闻",
+          "title": "特朗普结束访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普：热情期待在华盛顿接待习主席",
+          "url": "https://www.toutiao.com/trending/7638941233318104619/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普离开这一幕中国军人尽显英姿",
+          "url": "https://www.toutiao.com/trending/7639049468456992787/",
+          "source": "今日头条",
+          "ranks": [
+            7,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
+          "time_info": "[17时56分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://www.cls.cn/detail/2372433",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
           "title": "习近平会见随同美国总统特朗普访华的美国企业家",
@@ -446,19 +496,6 @@
           "time_info": "[11时55分 ~ 14时56分]"
         },
         {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://www.douyin.com/hot/2499691",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 17时56分]"
-        },
-        {
           "title": "特朗普公布访华团高管名单",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95",
           "source": "bilibili 热搜",
@@ -468,6 +505,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 17时56分]"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://www.douyin.com/hot/2499691",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 19时57分]"
         },
         {
           "title": "特朗普为中国少年儿童驻足鼓掌",
@@ -499,6 +550,18 @@
           "time_info": "[01时02分 ~ 11时55分]"
         },
         {
+          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
+          "url": "https://wallstreetcn.com/articles/3772311",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 19时57分]"
+        },
+        {
           "title": "特朗普访华欢迎仪式完整版视频",
           "url": "https://m.thepaper.cn/newsDetail_forward_33176000",
           "source": "澎湃新闻",
@@ -524,18 +587,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 07时59分]"
-        },
-        {
-          "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
-          "url": "https://wallstreetcn.com/articles/3772311",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 17时56分]"
         },
         {
           "title": "特朗普为中国少年儿童驻足鼓掌",
@@ -600,37 +651,27 @@
           "time_info": "[01时02分 ~ 06时12分]"
         },
         {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
-          "source": "bilibili 热搜",
+          "title": "德国总理默茨：与美国总统特朗普进行了良好通话。",
+          "url": "https://flash.jin10.com/detail/20260515194806721800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时57分"
         },
         {
           "title": "特朗普离开这一幕中国军人尽显英姿",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E8%BF%99%E4%B8%80%E5%B9%95%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%BA%E5%B0%BD%E6%98%BE%E8%8B%B1%E5%A7%BF",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://www.cls.cn/detail/2372433",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
@@ -638,22 +679,35 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
         },
         {
-          "title": "特朗普离开这一幕中国军人尽显英姿",
-          "url": "https://www.toutiao.com/trending/7639049468456992787/",
-          "source": "今日头条",
+          "title": "特朗普说能待得惯可能都不想走了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%83%BD%E5%BE%85%E5%BE%97%E6%83%AF%E5%8F%AF%E8%83%BD%E9%83%BD%E4%B8%8D%E6%83%B3%E8%B5%B0%E4%BA%86%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时57分"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
           "title": "据日经新闻：日本首相高市早苗计划最早于周五与美国总统特朗普进行电话会谈。",
@@ -690,6 +744,29 @@
           "time_info": "[03时02分 ~ 04时42分]"
         },
         {
+          "title": "特朗普离京 王毅机场送行",
+          "url": "https://www.toutiao.com/trending/7640008667797917211/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
+        },
+        {
+          "title": "美国总统特朗普结束访华",
+          "url": "https://wallstreetcn.com/articles/3772343",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "外交部发言人就美国总统特朗普访华情况答记者问",
           "url": "https://www.cls.cn/detail/2372089",
           "source": "财联社热门",
@@ -713,6 +790,18 @@
           "time_info": "[11时55分 ~ 14时56分]"
         },
         {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
+        },
+        {
           "title": "习近平同美国总统特朗普在中南海小范围会晤",
           "url": "https://wallstreetcn.com/livenews/3104065",
           "source": "华尔街见闻-快讯",
@@ -723,6 +812,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 14时56分]"
+        },
+        {
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
         },
         {
           "title": "外交部就特朗普访华情况答问",
@@ -781,17 +882,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "特朗普离京 王毅机场送行",
-          "url": "https://www.toutiao.com/trending/7640008667797917211/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "特朗普乘车抵达中南海",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%98%E8%BD%A6%E6%8A%B5%E8%BE%BE%E4%B8%AD%E5%8D%97%E6%B5%B7",
           "source": "百度热搜",
@@ -801,6 +891,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "特朗普：待惯了的话 可能都舍不得走",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%85%E6%83%AF%E4%BA%86%E7%9A%84%E8%AF%9D+%E5%8F%AF%E8%83%BD%E9%83%BD%E8%88%8D%E4%B8%8D%E5%BE%97%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "王毅到机场给特朗普送行",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%88%B0%E6%9C%BA%E5%9C%BA%E7%BB%99%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%81%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "据NBC新闻：美国总统特朗普提交的道德披露文件显示，其进行了与美国股票相关的交易。",
@@ -814,15 +926,15 @@
           "time_info": "06时12分"
         },
         {
-          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
-          "source": "澎湃新闻",
+          "title": "特朗普谈卢比奥：我认为他非常出色。",
+          "url": "https://wallstreetcn.com/livenews/3104386",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时57分"
         },
         {
           "title": "美国总统特朗普结束访华",
@@ -845,17 +957,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
         },
         {
           "title": "跳票近一年 特朗普“土豪金”T1手机开始发货",
@@ -886,9 +987,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "特朗普：我们可以袭击伊朗的桥梁和电力设施。",
+          "url": "https://wallstreetcn.com/livenews/3104377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "特朗普乘车抵达中南海",
@@ -900,6 +1012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "特朗普谈古巴：他们需要帮助。",
+          "url": "https://wallstreetcn.com/livenews/3104373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "外交部发言人就美国总统特朗普访华情况答记者问",
@@ -968,6 +1091,17 @@
           "time_info": "14时56分"
         },
         {
+          "title": "日本首相高市早苗：与美国总统特朗普重申了日美同盟坚如磐石，并将于下月在G7峰会上与其会晤。",
+          "url": "https://flash.jin10.com/detail/20260515191148175800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "特朗普谈两国人民共同点",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%A4%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%B1%E5%90%8C%E7%82%B9%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -981,372 +1115,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
-          "url": "https://flash.jin10.com/detail/20260515004813773800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "国家反诈中心APP 检测AI图",
-          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83APP%20%E6%A3%80%E6%B5%8BAI%E5%9B%BE&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时59分]"
-        },
-        {
-          "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
-          "url": "https://flash.jin10.com/detail/20260515041632296800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 06时12分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2371414",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时59分]"
-        },
-        {
-          "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
-          "url": "https://www.cls.cn/detail/2371337",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时59分]"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时59分]"
-        },
-        {
-          "title": "AI续写轻音少女第三季",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            26,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时12分]"
-        },
-        {
-          "title": "黄仁勋谈中国AI发展",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            27,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时12分]"
-        },
-        {
-          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
-          "url": "https://www.zhihu.com/question/2018783635805860978",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 17时56分]"
-        },
-        {
-          "title": "AI还原烂梗有多毒",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时59分]"
-        },
-        {
-          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
-          "url": "https://wallstreetcn.com/articles/3772269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时42分]"
-        },
-        {
-          "title": "xAI发布Grok Build的一个早期测试版。",
-          "url": "https://wallstreetcn.com/livenews/3103859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时42分]"
-        },
-        {
-          "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
-          "url": "https://wallstreetcn.com/livenews/3103910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 17时56分]"
-        },
-        {
-          "title": "腾讯辟谣“AI一号位即将离职”",
-          "url": "https://www.toutiao.com/trending/7639594791072628786/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 17时56分]"
-        },
-        {
-          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
-          "url": "https://www.cls.cn/detail/2372257",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "马化腾称一年前以为上了 AI 的船，结果发现漏水了，腾讯的 AI 哪里「漏水」了？还有机会补救吗？",
-          "url": "https://www.zhihu.com/question/2038001830735655715",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
-          "url": "https://flash.jin10.com/detail/20260515040418915800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 06时12分]"
-        },
-        {
-          "title": "xAI正式推出Grok Build早期测试版，旨在为超级Grok重度用户提供编码代理服务。",
-          "url": "https://flash.jin10.com/detail/20260515021742369800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
-          "url": "https://wallstreetcn.com/livenews/3104308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
-          "url": "https://www.cls.cn/detail/2371792",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "据科技媒体TechCrunsh：OpenAI表示，黑客在最新的代码安全问题发生后窃取了一些数据。",
-          "url": "https://flash.jin10.com/detail/20260515002730015800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "云南小伙用AI制作短片爆红",
-          "url": "https://www.douyin.com/hot/2499805",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
-          "url": "https://flash.jin10.com/detail/20260515021140763800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
-          "url": "https://wallstreetcn.com/livenews/3103819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
-          "url": "https://wallstreetcn.com/livenews/3103841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "易中天警告：AI会一本正经胡说八道",
-          "url": "https://www.baidu.com/s?wd=%E6%98%93%E4%B8%AD%E5%A4%A9%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "AI扩建，驱动美国最大电网电费暴涨76%",
-          "url": "https://wallstreetcn.com/livenews/3103927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：生产力强劲，不仅仅与AI有关。 预计生产力将继续强劲增长。 理解市场为何对经济的未来感到乐观。",
-          "url": "https://wallstreetcn.com/livenews/3103926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
-          "url": "https://wallstreetcn.com/livenews/3103925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "我被AI短剧盗脸了",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E4%BA%86&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗外长阿拉格齐：我们非常重视与印度的关系。",
@@ -1355,7 +1125,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -1428,6 +1198,18 @@
           "time_info": "03时02分"
         },
         {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
+        },
+        {
           "title": "道指涨幅扩大至1%，伊朗战争爆发以来首次创盘中历史新高，标普涨0.96%、科技板块涨1.9%，纳指涨1.1%，半导体指数涨超0.5%，银行指数涨1.3%，罗素2000指数涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3103830",
           "source": "华尔街见闻-快讯",
@@ -1451,6 +1233,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "伊朗外长：核问题“太复杂”，伊美一致同意推迟核谈判",
+          "url": "https://flash.jin10.com/detail/20260515194234057800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "大批伊朗民众集会为男足壮行",
           "url": "https://www.toutiao.com/trending/7638982403655450666/",
           "source": "今日头条",
@@ -1463,15 +1256,15 @@
           "time_info": "[11时55分 ~ 14时56分]"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
+          "title": "伊朗外长说美方认真才可能重启谈判",
+          "url": "https://wallstreetcn.com/livenews/3104398",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时57分"
         },
         {
           "title": "伊朗外长阿拉格齐：地区国家如今意识到，不能依赖美国和以色列来保障安全。",
@@ -1535,7 +1328,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -1582,6 +1375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡仍对友好国家商业船只开放",
+          "url": "https://wallstreetcn.com/livenews/3104378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "伊朗司法机构发言人：扣押在霍尔木兹海峡违规的美国油轮是基于国内法和国际法的。",
@@ -1639,6 +1443,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "伊朗外长：伊朗不寻求发展核武器",
+          "url": "https://wallstreetcn.com/livenews/3104374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "外交部发言人就伊朗局势答记者问",
           "url": "https://wallstreetcn.com/livenews/3104058",
           "source": "华尔街见闻-快讯",
@@ -1659,6 +1474,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬呼吁与伊拉克开展战略合作。",
+          "url": "https://flash.jin10.com/detail/20260515191642928800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "伊朗外长说美方认真才可能重启谈判",
+          "url": "https://flash.jin10.com/detail/20260515191611579800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "英国央行首席经济学家Huw Pill：通胀失速趋势已经在伊朗战争之前陷入停滞。 能源价格前景存在不确定性。 应该侧重于二次（通胀）效应。 无法容忍通胀动能失控。 面对不确定性时，政策必须让央行处于最佳状态。 预计不会重演2022年那样的二次效应。 劳动力市场比2022年更加松弛。 2022年存在过剩资金。",
@@ -1689,9 +1526,388 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "苹果与OpenAI合作关系紧张 潜在法律纠纷一触即发",
+          "url": "https://flash.jin10.com/detail/20260515004813773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "国家反诈中心APP 检测AI图",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E5%8F%8D%E8%AF%88%E4%B8%AD%E5%BF%83APP%20%E6%A3%80%E6%B5%8BAI%E5%9B%BE&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 07时59分]"
+        },
+        {
+          "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
+          "url": "https://flash.jin10.com/detail/20260515041632296800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 06时12分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2371414",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 07时59分]"
+        },
+        {
+          "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
+          "url": "https://www.cls.cn/detail/2371337",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 07时59分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 07时59分]"
+        },
+        {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 19时57分]"
+        },
+        {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            26,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时12分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时12分]"
+        },
+        {
+          "title": "AI还原烂梗有多毒",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时59分]"
+        },
+        {
+          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
+          "url": "https://wallstreetcn.com/articles/3772269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时42分]"
+        },
+        {
+          "title": "xAI发布Grok Build的一个早期测试版。",
+          "url": "https://wallstreetcn.com/livenews/3103859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时42分]"
+        },
+        {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 19时57分]"
+        },
+        {
+          "title": "AI涨价风吹到利基型存储：原厂停产引发结构性缺货 SLC NAND年内预计再涨120%",
+          "url": "https://www.cls.cn/detail/2372257",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
+        },
+        {
+          "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3103910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
+        },
+        {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 17时56分]"
+        },
+        {
+          "title": "马化腾称一年前以为上了 AI 的船，结果发现漏水了，腾讯的 AI 哪里「漏水」了？还有机会补救吗？",
+          "url": "https://www.zhihu.com/question/2038001830735655715",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI：ChatGPT移动应用中的Codex功能预览版正开始在iOS和Android平台向所有套餐用户推出，包括免费版和Go套餐，将在所有支持地区上线。",
+          "url": "https://flash.jin10.com/detail/20260515040418915800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 06时12分]"
+        },
+        {
+          "title": "xAI正式推出Grok Build早期测试版，旨在为超级Grok重度用户提供编码代理服务。",
+          "url": "https://flash.jin10.com/detail/20260515021742369800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "吉利汽车：雷达汽车中国公司及Radar Thailand将成为公司全资附属公司",
+          "url": "https://wallstreetcn.com/livenews/3104308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
+          "url": "https://www.cls.cn/detail/2371792",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "据科技媒体TechCrunsh：OpenAI表示，黑客在最新的代码安全问题发生后窃取了一些数据。",
+          "url": "https://flash.jin10.com/detail/20260515002730015800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
+          "url": "https://flash.jin10.com/detail/20260515021140763800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
+          "url": "https://wallstreetcn.com/livenews/3103819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "如何看待 Anthropic 估值反超 OpenAI ？",
+          "url": "https://www.zhihu.com/question/2038588162453104310",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
+          "url": "https://wallstreetcn.com/livenews/3103841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "易中天警告：AI会一本正经胡说八道",
+          "url": "https://www.baidu.com/s?wd=%E6%98%93%E4%B8%AD%E5%A4%A9%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E4%BC%9A%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%E8%83%A1%E8%AF%B4%E5%85%AB%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "AI扩建，驱动美国最大电网电费暴涨76%",
+          "url": "https://wallstreetcn.com/livenews/3103927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：生产力强劲，不仅仅与AI有关。 预计生产力将继续强劲增长。 理解市场为何对经济的未来感到乐观。",
+          "url": "https://wallstreetcn.com/livenews/3103926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
+          "url": "https://wallstreetcn.com/livenews/3103925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "我被AI短剧盗脸了",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -1920,9 +2136,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时57分]"
         }
       ]
     },
