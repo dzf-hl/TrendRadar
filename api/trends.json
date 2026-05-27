@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:03:58.820967+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-05-27T20:21:16.406323+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 54,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -53,6 +53,28 @@
           "time_info": "[00时42分 ~ 07时10分]"
         },
         {
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
+          "url": "https://news.ifeng.com/c/8tTRdrF2SL8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
           "url": "https://flash.jin10.com/detail/20260527002129253800",
           "source": "金十数据",
@@ -64,6 +86,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260527023626399800",
           "source": "金十数据",
@@ -73,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国中央司令部：美国在伊朗封锁中重新引导了109艘商船。",
+          "url": "https://flash.jin10.com/detail/20260527195605841800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
@@ -100,6 +144,19 @@
           "time_info": "[00时42分 ~ 07时10分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 20时21分]"
+        },
+        {
           "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
           "url": "https://wallstreetcn.com/articles/3773097",
           "source": "华尔街见闻",
@@ -123,6 +180,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时42分 ~ 07时10分]"
+        },
+        {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "伊朗：已有多艘船只通过霍尔木兹海峡 “敌对国家船只”除外",
+          "url": "https://flash.jin10.com/detail/20260527195206966800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
@@ -178,9 +257,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "欧洲央行副行长金多斯：6月会议必须考虑伊朗战争对经济增长的影响",
+          "url": "https://wallstreetcn.com/livenews/3110077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "伊朗总统：德黑兰寻求以“有尊严的框架”结束战争。",
@@ -200,7 +290,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -238,16 +328,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时42分 ~ 16时03分]"
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "伊朗局势“迷雾重重”震荡市场，新兴市场货币集体下挫",
@@ -260,6 +349,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时10分]"
+        },
+        {
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队海军表示，在过去24小时内，有25艘油轮、集装箱船以及其他商业船只在获得伊朗许可的情况下通过了霍尔木兹海峡。",
@@ -290,7 +390,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -301,7 +401,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -323,7 +423,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -334,7 +434,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -356,7 +456,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -378,7 +478,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -389,7 +489,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -405,6 +505,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "【伊媒：伊美谅解备忘录框架的初步非正式文件已披露】据隶属于伊朗司法部的“平衡”通讯社27日报道，伊美谅解备忘录框架的初步非正式文件已披露，美国军事力量将撤出伊朗周边区域，对伊朗的海上封锁将被解除。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3110063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗议会议长卡利巴夫的顾问表示，如果美国“玩文字游戏”，德黑兰将退出谈判。",
           "url": "https://flash.jin10.com/detail/20260527013502637800",
           "source": "金十数据",
@@ -414,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "伊朗称敌对国家船只仍被禁止通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3110061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "马汉航空：伊朗往返中国航线6月1日起增班",
@@ -480,12 +602,295 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "欧洲央行管委马赫鲁夫：任何伊朗和平协议都将成为利率决策的一个因素；不太可能明确表明回到战前的情况。",
+          "url": "https://flash.jin10.com/detail/20260527193127877800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
+          "url": "https://www.cls.cn/detail/2382007",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 07时10分]"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 20时21分]"
+        },
+        {
+          "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
+          "url": "https://wallstreetcn.com/livenews/3109683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时21分]"
+        },
+        {
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 20时21分]"
+        },
+        {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            18,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 20时21分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
+          "url": "https://www.cls.cn/detail/2381769",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 05时45分]"
+        },
+        {
+          "title": "一人之下被指用AI作画",
+          "url": "https://www.douyin.com/hot/2512287",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 07时10分]"
+        },
+        {
+          "title": "快手程一笑：一季度快手AI漫剧营销消耗同比增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3110080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
+          "url": "https://www.cls.cn/detail/2382213",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 11时42分]"
+        },
+        {
+          "title": "路透调查：伊朗战争与AI缺位或限制欧洲股市后续涨幅",
+          "url": "https://flash.jin10.com/detail/20260527154821580800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "AI热潮推动下，美股期指上扬，美光盘前涨近10%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
+        },
+        {
+          "title": "前美国芝加哥联储主席Evans：AI虽能提高生产率 但或将加剧通胀",
+          "url": "https://wallstreetcn.com/livenews/3109929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "多家AI回应高考期间是否禁用解题",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6AI%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%98%AF%E5%90%A6%E7%A6%81%E7%94%A8%E8%A7%A3%E9%A2%98%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 16时03分]"
+        },
+        {
+          "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
+          "url": "https://www.zhihu.com/question/2042336304244019752",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 05时45分]"
+        },
+        {
+          "title": "美国公司用AI辅助设计高超音速发动机",
+          "url": "https://www.toutiao.com/trending/7644167363171978778/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 00时43分]"
+        },
+        {
+          "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
+          "url": "https://www.zhihu.com/question/2041893027963262258",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
+          "url": "https://www.cls.cn/detail/2382316",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "最高法：研究制定涉AI案件和数据产权司法保护规范性文件",
+          "url": "https://wallstreetcn.com/livenews/3109781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "黄仁勋：反感很多CEO将AI与失业关联",
+          "url": "https://www.toutiao.com/trending/7643647082553655338/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "GGL Capital的Luk称AI领域流动性过剩构成风险",
+          "url": "https://wallstreetcn.com/livenews/3109910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "火山引擎发布AI Trust安全产品体系",
+          "url": "https://flash.jin10.com/detail/20260527193256918800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普提了一个非分要求",
@@ -503,11 +908,12 @@
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时21分]"
         },
         {
           "title": "美国总统特朗普：确保商品期货交易委员会对预测市场专属管辖权得到维护至关重要。",
@@ -547,6 +953,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 16时03分]"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 20时21分]"
         },
         {
           "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
@@ -727,232 +1144,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
-          "url": "https://www.cls.cn/detail/2382007",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 07时10分]"
-        },
-        {
-          "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
-          "url": "https://wallstreetcn.com/articles/3773116",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时10分 ~ 16时03分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "“港版纳指”掉队，恒生科技指数迎来“AI化”重估",
-          "url": "https://wallstreetcn.com/livenews/3109683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 16时03分]"
-        },
-        {
-          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
-          "url": "https://www.cls.cn/detail/2381769",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 05时45分]"
-        },
-        {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 16时03分]"
-        },
-        {
-          "title": "一人之下被指用AI作画",
-          "url": "https://www.douyin.com/hot/2512287",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 07时10分]"
-        },
-        {
-          "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
-          "url": "https://www.cls.cn/detail/2382213",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 11时42分]"
-        },
-        {
-          "title": "路透调查：伊朗战争与AI缺位或限制欧洲股市后续涨幅",
-          "url": "https://flash.jin10.com/detail/20260527154821580800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "前美国芝加哥联储主席Evans：AI虽能提高生产率 但或将加剧通胀",
-          "url": "https://wallstreetcn.com/livenews/3109929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "多家AI回应高考期间是否禁用解题",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6AI%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%98%AF%E5%90%A6%E7%A6%81%E7%94%A8%E8%A7%A3%E9%A2%98%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时42分 ~ 16时03分]"
-        },
-        {
-          "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
-          "url": "https://www.zhihu.com/question/2042336304244019752",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 05时45分]"
-        },
-        {
-          "title": "美国公司用AI辅助设计高超音速发动机",
-          "url": "https://www.toutiao.com/trending/7644167363171978778/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
-        },
-        {
-          "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
-          "url": "https://www.zhihu.com/question/2041893027963262258",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "AIDC供电架构变革 超级电容有望成为结构性必需品",
-          "url": "https://www.cls.cn/detail/2382316",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "最高法：研究制定涉AI案件和数据产权司法保护规范性文件",
-          "url": "https://wallstreetcn.com/livenews/3109781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "黄仁勋：反感很多CEO将AI与失业关联",
-          "url": "https://www.toutiao.com/trending/7643647082553655338/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "GGL Capital的Luk称AI领域流动性过剩构成风险",
-          "url": "https://wallstreetcn.com/livenews/3109910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -972,9 +1165,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "美光科技美股盘前涨近10%，前一交易日收涨超19%。",
+          "url": "https://wallstreetcn.com/livenews/3110081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
@@ -1056,15 +1260,37 @@
           "time_info": "05时45分"
         },
         {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
           "title": "三巨头超级IPO或搅动美股",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E5%B7%A8%E5%A4%B4%E8%B6%85%E7%BA%A7IPO%E6%88%96%E6%90%85%E5%8A%A8%E7%BE%8E%E8%82%A1",
           "source": "bilibili 热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
@@ -1079,11 +1305,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 16时03分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 20时21分]"
         },
         {
           "title": "高考期间AI工具被禁用或功能被限制？豆包客服：暂未接到相关通知",
@@ -1092,7 +1319,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
@@ -1121,7 +1348,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
