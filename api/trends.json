@@ -1,44 +1,69 @@
 {
-  "generated_at": "2026-06-04T05:49:18.972822+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-06-04T07:43:37.532119+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
-          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
           "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://news.ifeng.com/c/8tffKr5raZ8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "“离签署协议已非常接近”，特朗普披露美伊谈判细节",
+          "url": "https://news.ifeng.com/c/8tfYHflwBeK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
           "url": "https://wallstreetcn.com/livenews/3114035",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 07时43分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -57,11 +82,23 @@
           "url": "https://wallstreetcn.com/articles/3773725",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
+          "url": "https://wallstreetcn.com/livenews/3114010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
@@ -70,7 +107,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -81,9 +118,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "美众议院通过决议限制特朗普对伊动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E5%86%B3%E8%AE%AE%E9%99%90%E5%88%B6%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
@@ -103,7 +151,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -114,7 +162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -136,9 +184,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普遭遇党内反弹：众议院投票叫停对伊战争",
+          "url": "https://flash.jin10.com/detail/20260604064111387800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国总统特朗普：纽约市长马姆达尼是一个聪明人。",
@@ -147,9 +206,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普淡化霍尔木兹海峡水雷威胁，并鼓吹替代航线",
+          "url": "https://wallstreetcn.com/livenews/3114042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "美国总统特朗普：一旦签署协议，霍尔木兹海峡将立即开放。",
@@ -158,7 +228,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -169,7 +239,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -180,9 +250,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
+        },
+        {
+          "title": "特朗普称美伊协议可能在本周末达成",
+          "url": "https://flash.jin10.com/detail/20260604060822313800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://wallstreetcn.com/livenews/3114038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "特朗普宣称：伊朗原则上接近签署协议",
@@ -191,7 +283,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -209,8 +301,228 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 05时49分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
+          "url": "https://www.zhihu.com/question/2044389352550164119",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "英伟达收购Kumo AI，条款还不得而知。（财富）",
+          "url": "https://wallstreetcn.com/livenews/3114033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
+          "url": "https://www.zhihu.com/question/2045380781644763655",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
+          "url": "https://wallstreetcn.com/articles/3773733",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
+          "url": "https://www.cls.cn/detail/2389857",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
+        {
+          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
+          "url": "https://www.zhihu.com/question/2045160976878680020",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时43分 ~ 05时49分]"
+        },
+        {
+          "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
+          "url": "https://wallstreetcn.com/articles/3773784",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "达里奥警告：AI热潮已显现典型泡沫特征 最终难逃破裂命运",
+          "url": "https://www.cls.cn/detail/2390108",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "约10个贸易团体敦促美国增加受AI挤压的内存芯片供应",
+          "url": "https://wallstreetcn.com/livenews/3114021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "Meta寻求对AI智能体每个月收取至多200美元费用。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.6%，道指期货涨0.1%。 科技股中，博通目前（美股盘后）跌12.9%，甲骨文跌4.7%，IBM跌3.8%，AMD跌2.6%，闪迪跌2.5%，美光跌2.4%，高通跌1.9%，苹果涨1.2%，C3.ai涨2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3114044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "受AI驱动利润激增，分析师预计韩国股市表现超越日本对手",
+          "url": "https://wallstreetcn.com/livenews/3114040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)拟对其规划中的“Hatch”AI智能体收取高达每月200美元的费用。",
+          "url": "https://flash.jin10.com/detail/20260604060555586800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。 第二财季调整后每股收益（EPS）为2.44美元，分析师预期2.39美元。 预计第三财季营收大约294亿美元，分析师预期286.1亿美元。 预计第三财季AI芯片销售160亿美元，分析师预期172亿美元。 预计第三财季调整后EBITDA大约为68%。",
+          "url": "https://wallstreetcn.com/livenews/3114006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。",
+          "url": "https://wallstreetcn.com/livenews/3114004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗外长表示，如果以色列攻击贝鲁特，伊朗将作出果断回应。",
@@ -253,8 +565,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "据Axios：美国众议院以215票对208票通过限制伊朗战争权力的决议，4名共和党人议员与民主党人一起投票支持该措施。",
@@ -263,7 +575,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -290,6 +602,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美国国务院：各方谴责伊朗对该地区国家的攻击。",
+          "url": "https://flash.jin10.com/detail/20260604071327641800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
           "title": "科威特称伊朗袭击致63人受伤",
           "url": "https://www.baidu.com/s?wd=%E7%A7%91%E5%A8%81%E7%89%B9%E7%A7%B0%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E8%87%B463%E4%BA%BA%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
@@ -300,6 +623,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 05时49分]"
+        },
+        {
+          "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
+          "url": "https://wallstreetcn.com/articles/3773721",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，机场航站楼的损毁是由于美国“爱国者”防空系统未能拦截伊朗导弹，随后系统出现故障所致。",
@@ -341,7 +675,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -363,7 +697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -377,152 +711,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
         },
         {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
-          "title": "英伟达收购Kumo AI，条款还不得而知。（财富）",
-          "url": "https://wallstreetcn.com/livenews/3114033",
+          "title": "伊朗外长：若以色列侵略贝鲁特 则将重新开战",
+          "url": "https://wallstreetcn.com/livenews/3114062",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
-          "url": "https://www.zhihu.com/question/2045380781644763655",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
-          "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
-          "url": "https://www.zhihu.com/question/2044389352550164119",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
-          "title": "\"技术跑通了，价值没到来\"：贝恩报告揭示AI支出逾万亿美元后回报寥寥",
-          "url": "https://wallstreetcn.com/articles/3773733",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
-          "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
-          "url": "https://www.zhihu.com/question/2045160976878680020",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
-          "title": "博通CEO：重申2027财年AI芯片销售将超过1000亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3114024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "约10个贸易团体敦促美国增加受AI挤压的内存芯片供应",
-          "url": "https://wallstreetcn.com/livenews/3114021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。 第二财季调整后每股收益（EPS）为2.44美元，分析师预期2.39美元。 预计第三财季营收大约294亿美元，分析师预期286.1亿美元。 预计第三财季AI芯片销售160亿美元，分析师预期172亿美元。 预计第三财季调整后EBITDA大约为68%。",
-          "url": "https://wallstreetcn.com/livenews/3114006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        },
-        {
-          "title": "英特尔收涨4.43%，报112.71美元，该公司重磅发布18A至强6+芯片及机架级AI战略。",
-          "url": "https://wallstreetcn.com/livenews/3114004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
+          "time_info": "07时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美股收盘：三大指数从历史高位回落 美伊紧张局势再度升级",
+          "url": "https://www.cls.cn/detail/2390139",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        },
         {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3773742",
@@ -535,24 +775,13 @@
           "time_info": "[02时43分 ~ 05时49分]"
         },
         {
-          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
-          "url": "https://wallstreetcn.com/articles/3773769",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
-        },
-        {
           "title": "博通美股盘后跌幅扩大至12%。",
           "url": "https://wallstreetcn.com/livenews/3114029",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -561,11 +790,12 @@
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "小盘股指ETF收跌将近1.4%，领跌美股大类资产类ETF，布油基金涨约2%",
@@ -574,7 +804,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -585,7 +815,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -596,7 +826,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         }
@@ -614,8 +844,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         },
         {
           "title": "最信豆包的人出现了",
@@ -623,11 +853,40 @@
           "source": "微博",
           "ranks": [
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
+          "url": "https://wallstreetcn.com/livenews/3114037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时43分"
         }
       ]
     },
@@ -642,7 +901,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时49分"
         },
@@ -660,23 +919,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -685,11 +927,12 @@
           "url": "https://www.zhihu.com/question/2045440339406762131",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         }
       ]
     },
@@ -703,11 +946,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时43分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 07时43分]"
         }
       ]
     }
