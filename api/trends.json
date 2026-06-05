@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T20:37:45.664469+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2026-06-05T23:54:22.008594+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -120,6 +120,17 @@
           "time_info": "[08时07分 ~ 13时17分]"
         },
         {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
           "url": "https://flash.jin10.com/detail/20260605053303350800",
           "source": "金十数据",
@@ -210,6 +221,18 @@
           "time_info": "04时06分"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 23时54分]"
+        },
+        {
           "title": "俄外长：“拜登的战争”变成“特朗普的战争”",
           "url": "https://wallstreetcn.com/livenews/3114560",
           "source": "华尔街见闻-快讯",
@@ -252,17 +275,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "美国总统特朗普：将建设2座新煤电厂并出口煤炭。",
@@ -320,6 +332,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "特朗普为大倒影池翻修工程辩护 称使用寿命可达百年",
+          "url": "https://flash.jin10.com/detail/20260605233310430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "美国总统特朗普：我们将采取行动，利用煤炭的力量来降低能源价格。",
           "url": "https://flash.jin10.com/detail/20260605033009382800",
           "source": "金十数据",
@@ -329,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
+          "url": "https://wallstreetcn.com/livenews/3115234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "美国总统特朗普：汽车制造商在会面中并未提出任何关税调整要求，谈话主要集中在汽车维修问题上。",
@@ -373,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "俄罗斯总统普京：特朗普在阿拉斯加曾要求俄罗斯作出一定妥协，俄方对此已准备就绪。",
@@ -554,7 +599,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -564,8 +609,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时07分 ~ 20时37分]"
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 23时54分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -576,8 +621,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 23时54分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -674,8 +719,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 20时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 23时54分]"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 23时54分]"
         },
         {
           "title": "好怕现实中也有人长AI这样",
@@ -715,16 +772,17 @@
           "time_info": "01时48分"
         },
         {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
           "ranks": [
+            6,
             7,
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 20时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 23时54分]"
         },
         {
           "title": "AI交易降温，纳指收跌，道指创历史新高，博通大跌超12%，金银反弹",
@@ -761,16 +819,28 @@
           "time_info": "[01时48分 ~ 04时06分]"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            7
+            11,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 20时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 23时54分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
@@ -818,16 +888,16 @@
           "time_info": "01时48分"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
           "source": "财联社热门",
           "ranks": [
-            11,
-            7
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 20时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 23时54分]"
         },
         {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
@@ -861,17 +931,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2391915",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 20时37分]"
         },
         {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
@@ -963,6 +1022,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://wallstreetcn.com/livenews/3114639",
           "source": "华尔街见闻-快讯",
@@ -1024,7 +1094,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1038,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        },
+        {
+          "title": "美国参议院Jim Banks发函财长贝森特、战争部长海格塞斯、以及特朗普政府的其他官员。 Banks要求对AI的监管跟上新模型的（发布）节奏。",
+          "url": "https://wallstreetcn.com/livenews/3115225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
@@ -1076,7 +1157,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
@@ -1107,7 +1188,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1137,27 +1218,28 @@
           "time_info": "[01时48分 ~ 08时07分]"
         },
         {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 23时54分]"
+        },
+        {
           "title": "伊朗军队向美军舰开火示警 美舰船随后驶离阿曼湾",
           "url": "https://wallstreetcn.com/livenews/3115119",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
-        },
-        {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 20时37分]"
         },
         {
           "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
@@ -1210,9 +1292,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗的经济正在挣扎，其军队已被摧毁。通过“经济之怒”，美国财政部将继续切断伊朗的影子船队、影子银行网络以及对全球贸易的获取渠道。",
+          "url": "https://flash.jin10.com/detail/20260605233715202800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "伊朗媒体：伊朗将两艘美军驱逐舰驱离阿曼湾",
@@ -1221,9 +1314,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
+        },
+        {
+          "title": "美国对伊朗外汇兑换机构Mehrdad Geramian Nik实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260605233340333800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "哈马斯高官与伊朗外长通话讨论地区局势",
@@ -1270,13 +1374,24 @@
           "time_info": "17时48分"
         },
         {
+          "title": "据福克斯新闻：美国能源部长赖特称，在伊朗冲突结束后，美国将向战略石油储备补充4000万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260605232415104800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "美国印太司令部：已对油轮“达维娜”号（MT Davina）实施登船检查。 “达维娜”号与伊朗有关。",
           "url": "https://wallstreetcn.com/livenews/3115093",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         }
@@ -1300,6 +1415,19 @@
           "time_info": "[01时48分 ~ 08时07分]"
         },
         {
+          "title": "豆包首次推出订阅选项后，月活跃用户减少近 610 万，怎样看待这一影响？豆包的商业化尝试过早了吗？",
+          "url": "https://www.zhihu.com/question/2046216142453040638",
+          "source": "知乎",
+          "ranks": [
+            16,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 23时54分]"
+        },
+        {
           "title": "豆包首次付费后月活减少610万",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%A6%96%E6%AC%A1%E4%BB%98%E8%B4%B9%E5%90%8E%E6%9C%88%E6%B4%BB%E5%87%8F%E5%B0%91610%E4%B8%87%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1317,23 +1445,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 20时37分]"
-        },
-        {
-          "title": "豆包首次推出订阅选项后，月活跃用户减少近 610 万，怎样看待这一影响？豆包的商业化尝试过早了吗？",
-          "url": "https://www.zhihu.com/question/2046216142453040638",
-          "source": "知乎",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 20时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时48分 ~ 23时54分]"
         },
         {
           "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
@@ -1353,11 +1470,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E7%A6%81%E8%B1%86%E5%8C%85%E5%90%97&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 23时54分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇",
@@ -1393,11 +1511,12 @@
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 23时54分]"
         },
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -1513,11 +1632,12 @@
           "url": "https://wallstreetcn.com/articles/3773949",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 23时54分]"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -1565,7 +1685,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -1579,6 +1699,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         }
       ]
     }
