@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T13:28:50.536594+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-06-11T18:22:58.085244+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -64,6 +64,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "约旦称击落20枚伊朗导弹",
+          "url": "https://wallstreetcn.com/livenews/3118090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "据AXIOS：美国官员称，美国对伊朗的打击已经开始。",
           "url": "https://flash.jin10.com/detail/20260611053510646800",
           "source": "金十数据",
@@ -73,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗战争影响海湾地区供应 美国跃升印度最大天然气供应商",
+          "url": "https://flash.jin10.com/detail/20260611180732066800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "伊朗媒体Mehr：Asaluyeh的防空系统被激活。",
@@ -169,11 +191,12 @@
           "url": "https://news.ifeng.com/c/8trqmYEuo1k",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗米纳卜地区传出爆炸声。",
@@ -220,17 +243,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "伊朗全面关闭霍尔木兹海峡",
           "url": "https://www.toutiao.com/trending/7649365955310718483/",
           "source": "今日头条",
@@ -252,6 +264,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时14分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
+        },
+        {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美国财政部网站显示，美国对伊朗实施新制裁。",
@@ -298,6 +333,18 @@
           "time_info": "06时02分"
         },
         {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
+        },
+        {
           "title": "美中央司令部称袭击伊朗多个目标",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E4%B8%AD%E5%A4%AE%E5%8F%B8%E4%BB%A4%E9%83%A8%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%A4%9A%E4%B8%AA%E7%9B%AE%E6%A0%87",
           "source": "百度热搜",
@@ -318,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗再次称霍尔木兹海峡暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3118073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：德黑兰西部传出防空活动声响。",
@@ -428,17 +486,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "伊朗议会国家安全委员会主席：这一次，战争将不会局限于本地区。",
@@ -667,7 +714,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
@@ -684,7 +731,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -706,7 +753,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -750,11 +797,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 18时22分]"
         },
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -787,7 +835,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -798,7 +846,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -1159,8 +1207,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时58分 ~ 18时22分]"
+        },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
           "url": "https://www.cls.cn/detail/2396017",
@@ -1172,19 +1234,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 08时15分]"
-        },
-        {
-          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 13时28分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -1226,15 +1275,28 @@
           "time_info": "[00时58分 ~ 08时15分]"
         },
         {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
+        },
+        {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
         },
         {
           "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
@@ -1260,6 +1322,17 @@
           "time_info": "[00时58分 ~ 03时38分]"
         },
         {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "阿波罗：过多AI支出被用于“低智商”任务",
           "url": "https://wallstreetcn.com/livenews/3117625",
           "source": "华尔街见闻-快讯",
@@ -1271,6 +1344,41 @@
           "time_info": "00时59分"
         },
         {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
+        },
+        {
+          "title": "AI大神做漫剧真有一套",
+          "url": "https://www.douyin.com/hot/2530023",
+          "source": "抖音",
+          "ranks": [
+            25,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
           "url": "https://wallstreetcn.com/livenews/3117664",
           "source": "华尔街见闻-快讯",
@@ -1280,17 +1388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
-        },
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "没有物理AI业务且与2026年世界杯不存在业务合作关系！四连板AI应用概念股发布异动公告|盘后公告集锦",
@@ -1315,17 +1412,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "特朗普称将与AI公司高管讨论回馈公众",
           "url": "https://wallstreetcn.com/livenews/3117617",
           "source": "华尔街见闻-快讯",
@@ -1335,6 +1421,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "京东发布国内首个智能体自主支付协议 为AI“花钱”定规则",
+          "url": "https://flash.jin10.com/detail/20260611175146785800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
@@ -1359,15 +1467,15 @@
           "time_info": "03时38分"
         },
         {
-          "title": "AI大神做漫剧真有一套",
-          "url": "https://www.douyin.com/hot/2530023",
-          "source": "抖音",
+          "title": "腾讯混元AI Infra新开源：HPC-Ops推理核心算子全面升级",
+          "url": "https://wallstreetcn.com/livenews/3118048",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "18时22分"
         },
         {
           "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
@@ -1387,7 +1495,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         }
@@ -1395,7 +1503,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1406,8 +1514,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时14分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[08时14分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
@@ -1439,9 +1547,20 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
+        },
+        {
+          "title": "SpaceX上市在即，美股航天概念股盘前反弹，“SpaceX概念基金”Destiny Tech100涨近12%，Rocket Lab、ASTS涨超4%，回声星通信涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3118075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "18时22分"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -1583,7 +1702,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
         },
@@ -1605,6 +1724,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时22分]"
+        },
+        {
           "title": "花旗：金价可能跌到3500美元",
           "url": "https://www.toutiao.com/trending/7649366995154944043/",
           "source": "今日头条",
@@ -1616,17 +1746,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时58分 ~ 06时02分]"
-        },
-        {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
         },
         {
           "title": "金价抹去今年全部涨幅",
