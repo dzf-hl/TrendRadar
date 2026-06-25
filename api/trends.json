@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-25T20:21:08.259302+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-06-25T23:43:12.455289+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时12分 ~ 23时43分]"
+        },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
           "url": "https://www.cls.cn/detail/2408054",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 08时13分]"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时12分 ~ 20时21分]"
         },
         {
           "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。",
@@ -63,8 +63,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时43分]"
+        },
+        {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时20分 ~ 23时43分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -120,8 +132,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 20时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 23时43分]"
         },
         {
           "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
@@ -162,6 +174,18 @@
           "time_info": "[06时17分 ~ 08时13分]"
         },
         {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时43分]"
+        },
+        {
           "title": "用AI制作一部玄幻短片",
           "url": "https://www.douyin.com/hot/2545425",
           "source": "抖音",
@@ -197,29 +221,6 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
-          "url": "https://www.cls.cn/detail/2409082",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
-        },
-        {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时21分]"
-        },
-        {
           "title": "美财长大放厥词：AI的最大风险是中国超越美国",
           "url": "https://news.ifeng.com/c/8uDioiTwhfp",
           "source": "凤凰网",
@@ -229,6 +230,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 06时17分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时43分]"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时43分]"
         },
         {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
@@ -242,6 +268,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 08时13分]"
+        },
+        {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
         },
         {
           "title": "建议大家不要和AI太好了",
@@ -267,18 +304,6 @@
           "time_info": "[08时12分 ~ 13时05分]"
         },
         {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时21分]"
-        },
-        {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
@@ -289,6 +314,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时12分 ~ 13时05分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时20分 ~ 23时43分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -302,18 +338,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时48分 ~ 08时13分]"
-        },
-        {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时21分]"
         },
         {
           "title": "AI 对制造业的影响预计何时显现？",
@@ -351,15 +375,15 @@
           "time_info": "03时22分"
         },
         {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
+          "time_info": "[23时42分 ~ 23时43分]"
         },
         {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
@@ -404,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "台积电预计，全球半导体市场将在今年突破1万亿美元，并在2030年达到1.5万亿美元。业内人士认为，台积电本次闭门会再度坚定了业界的AI信仰，其晶圆制造和先进封装扩产，具有产业发展趋势风向标意义。随着晶圆厂和封装厂次第加入到扩产序列，半导体设备和材料商，将率先受益于AI带来的本轮扩产大潮。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3124752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "“下一个英伟达”？高通剑指AI算力赛道 发布全新CPU并收购AI软件企业",
@@ -596,7 +631,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -606,8 +641,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时43分]"
         },
         {
           "title": "美国总统特朗普：（关于包括运输费用在内的伊朗协议）将是不可接受的。",
@@ -654,6 +689,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3124758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
           "url": "https://news.ifeng.com/c/8uDgRGX21RF",
           "source": "凤凰网",
@@ -684,11 +730,26 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 20时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 23时43分]"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时43分]"
         },
         {
           "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
@@ -736,19 +797,6 @@
           "time_info": "06时17分"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时21分]"
-        },
-        {
           "title": "美国总统特朗普：乌克兰总统泽连斯基表现得相当不错。",
           "url": "https://flash.jin10.com/detail/20260625043436507800",
           "source": "金十数据",
@@ -777,7 +825,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -876,7 +924,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -991,6 +1039,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://flash.jin10.com/detail/20260625230803866800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
           "url": "https://wallstreetcn.com/livenews/3124209",
           "source": "华尔街见闻-快讯",
@@ -1035,6 +1094,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
+          "url": "https://wallstreetcn.com/livenews/3124740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "欧盟在特朗普设定的最后期限前最终批准与美国的贸易协议",
           "url": "https://wallstreetcn.com/livenews/3124531",
           "source": "华尔街见闻-快讯",
@@ -1052,7 +1122,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1085,7 +1155,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1148,7 +1218,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
@@ -1160,6 +1230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://flash.jin10.com/detail/20260625233541514800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -1178,11 +1259,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 20时21分]"
+          "appearance_count": 6,
+          "time_info": "[13时05分 ~ 23时43分]"
         },
         {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
@@ -1237,7 +1319,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1275,6 +1357,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "报道：伊朗预计每年将从霍尔木兹海峡获得400亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3124750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "伊朗外长与沙特外交大臣通电话。",
           "url": "https://wallstreetcn.com/livenews/3124128",
           "source": "华尔街见闻-快讯",
@@ -1284,6 +1377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国：预计伊朗石油出口将达到200万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3124749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "美总统称或无法查明谁袭击了伊朗小学",
@@ -1325,7 +1429,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1347,9 +1451,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
+        },
+        {
+          "title": "伊朗外长：我们决心推进这一进程，并将与邻国协调和交流意见。",
+          "url": "https://flash.jin10.com/detail/20260625231307002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "白宫要求美国国会山围绕伊朗和埃博拉疫情拨款876亿美元。",
@@ -1363,13 +1478,24 @@
           "time_info": "06时17分"
         },
         {
+          "title": "伊朗外长：与阿曼外长举行了富有成效的通话，重申伊朗和阿曼将开展对话，“以确定霍尔木兹海峡未来的行政管理和海上服务”。",
+          "url": "https://flash.jin10.com/detail/20260625231214798800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果伊朗将资金用于代理人，这笔交易就无效。",
           "url": "https://flash.jin10.com/detail/20260625193904690800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1380,7 +1506,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
@@ -1388,7 +1514,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -1460,6 +1586,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时42分 ~ 23时43分]"
+        },
+        {
           "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
           "url": "https://wallstreetcn.com/livenews/3124222",
           "source": "华尔街见闻-快讯",
@@ -1510,7 +1647,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         },
@@ -1675,11 +1812,12 @@
           "url": "https://www.zhihu.com/question/2053015352347293676",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时20分 ~ 23时43分]"
         },
         {
           "title": "谷歌(GOOG.O)跌幅扩大至0.8%，消息称谷歌将Gemini 3.5 Pro大模型发布时间推迟至7月，因为他们还在花更多时间收集早期测试者的反馈并调整模型。",
