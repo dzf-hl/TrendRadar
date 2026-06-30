@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T08:05:41.671965+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-06-30T13:03:30.467194+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -52,6 +52,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时57分]"
+        },
+        {
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时37分 ~ 13时03分]"
         },
         {
           "title": "美国总统特朗普：不太可能将《保障美国选民资格法案》纳入其中。",
@@ -102,18 +115,6 @@
           "time_info": "[03时57分 ~ 06时57分]"
         },
         {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时37分 ~ 08时05分]"
-        },
-        {
           "title": "美国总统特朗普：由于有关邮寄投票的裁决令人有些意外，《保障美国选民资格法案》显得更加重要。",
           "url": "https://flash.jin10.com/detail/20260630033047940800",
           "source": "金十数据",
@@ -142,7 +143,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -164,7 +165,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -182,6 +183,17 @@
           "time_info": "[03时57分 ~ 06时57分]"
         },
         {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "美国总统特朗普签署关于汽车售后零部件的备忘录。",
           "url": "https://flash.jin10.com/detail/20260630032916343800",
           "source": "金十数据",
@@ -191,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "特朗普“和粉丝吵翻了”",
+          "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         },
         {
           "title": "美国总统特朗普：（关于多哈会晤）这或许很重要，我们将拭目以待。",
@@ -204,13 +227,24 @@
           "time_info": "03时57分"
         },
         {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
           "url": "https://flash.jin10.com/detail/20260630070512009800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -221,7 +255,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -232,7 +266,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -265,7 +299,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -298,7 +332,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -349,6 +383,202 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
+          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时37分 ~ 08时05分]"
+        },
+        {
+          "title": "伊朗副外长：根据《伊斯兰堡备忘录》，只有伊朗有权在霍尔木兹海峡开展排雷行动。警告法国不要介入相关事务，此举只会令本已十分敏感的局势进一步复杂化。",
+          "url": "https://flash.jin10.com/detail/20260630005245126800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "以色列防长：准备好独立打击伊朗",
+          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "伊朗总统：伊朗面对“无理夸口和毫无根据的威胁”，将在决策中坚持理性与人类尊严，但在行动时将采取“果断且无畏的防御”。",
+          "url": "https://flash.jin10.com/detail/20260630042626078800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "伊朗总统：相关“谅解备忘录”是双边事项，如果美方遵守协议条款，伊朗也将履行自身义务。",
+          "url": "https://flash.jin10.com/detail/20260630042550214800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "分析：美伊对谅解备忘录存分歧 美欲谈核 伊朗聚焦霍尔木兹",
+          "url": "https://flash.jin10.com/detail/20260630032902979800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
+          "url": "https://wallstreetcn.com/livenews/3126290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 05时27分]"
+        },
+        {
+          "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
+          "url": "https://wallstreetcn.com/livenews/3126285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 05时27分]"
+        },
+        {
+          "title": "普京为何将俄乌谈判时间表与伊朗挂钩",
+          "url": "https://www.toutiao.com/trending/7656625002212704275/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 05时27分]"
+        },
+        {
+          "title": "伊朗称美伊会谈筹备工作尚未启动",
+          "url": "https://flash.jin10.com/detail/20260630002451979800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "据伊朗国家媒体：两名革命卫队成员在伊朗西部遭不明枪手袭击身亡。",
+          "url": "https://flash.jin10.com/detail/20260630125106486800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "据卡塔尔国家通讯社：卡塔尔部长讨论地区发展及与伊朗代理国防部长的联合协调事宜。",
+          "url": "https://flash.jin10.com/detail/20260630002054640800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "伊朗副外长：根据《伊斯兰堡备忘录》，霍尔木兹海峡的排雷工作“仅由伊朗执行”，不允许任何其他国家参与相关行动。",
+          "url": "https://flash.jin10.com/detail/20260630035948248800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "伊朗队出局是否受到盘外招影响",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%87%BA%E5%B1%80%E6%98%AF%E5%90%A6%E5%8F%97%E5%88%B0%E7%9B%98%E5%A4%96%E6%8B%9B%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡排雷工作将由伊方单独执行",
+          "url": "https://wallstreetcn.com/livenews/3126282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊副外长强调船只须按“伊朗线路”通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260630034123522800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
@@ -364,6 +594,18 @@
           "time_info": "[01时37分 ~ 05时27分]"
         },
         {
+          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
+          "url": "https://www.cls.cn/detail/2412290",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时03分]"
+        },
+        {
           "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
@@ -375,27 +617,17 @@
           "time_info": "[06时56分 ~ 06时57分]"
         },
         {
-          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
-          "url": "https://www.cls.cn/detail/2412290",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
           "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
           "url": "https://www.cls.cn/detail/2412265",
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 08时05分]"
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 13时03分]"
         },
         {
           "title": "美股",
@@ -522,7 +754,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -540,171 +772,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
-          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时37分 ~ 08时05分]"
-        },
-        {
-          "title": "伊朗副外长：根据《伊斯兰堡备忘录》，只有伊朗有权在霍尔木兹海峡开展排雷行动。警告法国不要介入相关事务，此举只会令本已十分敏感的局势进一步复杂化。",
-          "url": "https://flash.jin10.com/detail/20260630005245126800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "伊朗总统：伊朗面对“无理夸口和毫无根据的威胁”，将在决策中坚持理性与人类尊严，但在行动时将采取“果断且无畏的防御”。",
-          "url": "https://flash.jin10.com/detail/20260630042626078800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "伊朗总统：相关“谅解备忘录”是双边事项，如果美方遵守协议条款，伊朗也将履行自身义务。",
-          "url": "https://flash.jin10.com/detail/20260630042550214800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "分析：美伊对谅解备忘录存分歧 美欲谈核 伊朗聚焦霍尔木兹",
-          "url": "https://flash.jin10.com/detail/20260630032902979800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
-          "url": "https://wallstreetcn.com/livenews/3126290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 05时27分]"
-        },
-        {
-          "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
-          "url": "https://wallstreetcn.com/livenews/3126285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 05时27分]"
-        },
-        {
-          "title": "普京为何将俄乌谈判时间表与伊朗挂钩",
-          "url": "https://www.toutiao.com/trending/7656625002212704275/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时37分 ~ 05时27分]"
-        },
-        {
-          "title": "伊朗称美伊会谈筹备工作尚未启动",
-          "url": "https://flash.jin10.com/detail/20260630002451979800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "据卡塔尔国家通讯社：卡塔尔部长讨论地区发展及与伊朗代理国防部长的联合协调事宜。",
-          "url": "https://flash.jin10.com/detail/20260630002054640800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "伊朗副外长：根据《伊斯兰堡备忘录》，霍尔木兹海峡的排雷工作“仅由伊朗执行”，不允许任何其他国家参与相关行动。",
-          "url": "https://flash.jin10.com/detail/20260630035948248800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "伊朗队出局是否受到盘外招影响",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%87%BA%E5%B1%80%E6%98%AF%E5%90%A6%E5%8F%97%E5%88%B0%E7%9B%98%E5%A4%96%E6%8B%9B%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡排雷工作将由伊方单独执行",
-          "url": "https://wallstreetcn.com/livenews/3126282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊副外长强调船只须按“伊朗线路”通过霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260630034123522800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -783,6 +852,17 @@
           "time_info": "[03时56分 ~ 08时05分]"
         },
         {
+          "title": "日本经济产业省将向新的AI企业提供3873亿日元支持。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3126483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
           "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
           "url": "https://wallstreetcn.com/livenews/3126270",
           "source": "华尔街见闻-快讯",
@@ -798,22 +878,35 @@
           "url": "https://wallstreetcn.com/articles/3775756",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时03分]"
         },
         {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
           "url": "https://www.cls.cn/detail/2412167",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时03分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时05分"
+          "time_info": "13时03分"
         },
         {
           "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
@@ -881,9 +974,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时03分]"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -892,7 +985,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
@@ -913,6 +1006,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 08时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价又跌破4000",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E7%A0%B44000%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
