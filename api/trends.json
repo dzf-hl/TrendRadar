@@ -1,26 +1,23 @@
 {
-  "generated_at": "2026-07-07T11:03:03.426300+08:00",
-  "total_titles_processed": 570,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2026-07-07T14:53:20.699740+08:00",
+  "total_titles_processed": 828,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
         {
           "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
           "url": "https://news.ifeng.com/c/8uYHhG4pLt3",
@@ -207,6 +204,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
+          "url": "https://www.zhihu.com/question/2057732608214004902",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
           "title": "美国总统特朗普：沃尔玛将降低价格。",
           "url": "https://flash.jin10.com/detail/20260707044646086800",
           "source": "金十数据",
@@ -216,6 +224,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
+          "url": "https://www.cls.cn/detail/2418537",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
+          "url": "https://www.zhihu.com/question/2057769216468415013",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
         },
         {
           "title": "特朗普：我可以“不到一下午”摧毁伊朗所有电厂",
@@ -284,6 +336,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "美国总统特朗普称，沃尔玛将按我的要求（对商品）大幅降价。 沃尔玛是一家真正爱国的公司。 其他零售商应该效仿沃尔玛的做法。 该公司随后将牛肉降价大约15%，下调碎牛肉、甜玉米、红樱桃的价格。",
           "url": "https://wallstreetcn.com/livenews/3129565",
           "source": "华尔街见闻-快讯",
@@ -298,8 +361,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
         {
           "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
           "url": "https://wallstreetcn.com/articles/3776245",
@@ -311,6 +385,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 07时06分]"
+        },
+        {
+          "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
+          "url": "https://wallstreetcn.com/articles/3776319",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
+          "title": "【央视网评：斩断“低俗赌约” 莫把股市当赌场】“央视网评”公众号发文称，近日，中公教育、共进股份等股票因股吧平台内的“低俗赌约”，引发股民的网络狂欢，前者4天内2个涨停，后者亦有1个涨停，接连上演了荒诞的股价异动戏码。这场靠“低俗赌约”撬动的股价异动，在监管的果断介入下被及时按下“暂停键”。 此类“低俗赌约”具有极强的夸大性与误导性：“一年20倍”等纯属夸张，低俗的“钩子”在传播过程中更被强行关联“有色”、AI硬件等热点概念，严重干扰投资者决策。这种流量炒作比股市“小作文”更为隐蔽：甚至无需捏造具体的利好谎言，只要足够低俗猎奇，猎奇心理和算法推荐机制就会替其将“误导性”放大。 投资者也要更清醒：在拿股吧赌约当买入逻辑之前，应先审视自身交易行为是否理性，是否会触碰红线。价格发现是资本市场的核心功能，容不下半点低俗流量的绑架。摒弃博傻心理，回归理性投资，才是长久之道。",
+          "url": "https://wallstreetcn.com/livenews/3129789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
@@ -371,6 +478,17 @@
           "time_info": "[01时43分 ~ 07时06分]"
         },
         {
+          "title": "AI 砍掉的第一批大厂人：高薪，高绩效，高P",
+          "url": "https://wallstreetcn.com/articles/3776296",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
+        },
+        {
           "title": "高盛：AI投资重心迈向实体产业，未来6年资本开支或达7.6万亿美元",
           "url": "https://wallstreetcn.com/livenews/3129433",
           "source": "华尔街见闻-快讯",
@@ -391,6 +509,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 07时06分]"
+        },
+        {
+          "title": "世界人工智能大会下周开幕！华为最大规模超节点真机、全球首款AI智能体手机等首秀",
+          "url": "https://www.cls.cn/detail/2418905",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 14时53分]"
         },
         {
           "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
@@ -581,7 +710,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
@@ -628,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "伊朗外长：若威胁继续 不会启动最终谈判",
+          "url": "https://wallstreetcn.com/livenews/3129766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "以色列官员：即使美国与伊朗达成协议，以方仍将保留对伊朗发动军事打击的能力选项。",
