@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T02:07:25.628431+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-30T04:13:19.404714+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "xAI：Grok 4.5已在Grok Build中发布，所有套餐均可在Cursor上使用。",
@@ -19,22 +19,33 @@
           "time_info": "02时07分"
         },
         {
-          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260730014924073800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
           "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
           "url": "https://wallstreetcn.com/articles/3778177",
           "source": "华尔街见闻",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "KT宫斗实锤,Aiming被抬走",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260730014924073800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,15 +63,50 @@
           "time_info": "02时07分"
         },
         {
-          "title": "KT宫斗实锤,Aiming被抬走",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356617&amp;topic_name=KT%E5%AE%AB%E6%96%97%E5%AE%9E%E9%94%A4%2CAiming%E8%A2%AB%E6%8A%AC%E8%B5%B0",
-          "source": "贴吧",
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
           "ranks": [
-            8
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
         },
         {
           "title": "SpaceXAI：8月5日，Grok-Voice-Latest将从Grok-Voice-Think-Fast-1.0升级至Grok-Voice-Think-Fast-2.0。",
@@ -68,17 +114,6 @@
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,44 +164,22 @@
           "time_info": "02时07分"
         },
         {
+          "title": "美国总统特朗普：（谈论人工智能）正在研究管控AI的措施。",
+          "url": "https://wallstreetcn.com/livenews/3141881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "OpenAI首席执行官与美国立法者探讨下一代AI模型",
           "url": "https://wallstreetcn.com/livenews/3141802",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "AI漫剧走红,国动流量狂跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -198,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -208,19 +221,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
         },
         {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
@@ -230,8 +244,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -241,8 +255,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "伊朗武装部队警告特朗普",
+          "url": "https://www.douyin.com/hot/2589723",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
         },
         {
           "title": "距离美联储宣布决议声明不到60分钟，特朗普顾问：相信沃什会做正确的事",
@@ -256,15 +304,26 @@
           "time_info": "02时07分"
         },
         {
-          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
-          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
-          "source": "凤凰网",
+          "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
+          "url": "https://wallstreetcn.com/livenews/3141883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时07分"
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国总统特朗普：希望乌克兰总统泽连斯基结束战事。",
+          "url": "https://wallstreetcn.com/livenews/3141882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美联储加息压力渐增，特朗普未必会把矛头指向沃什",
@@ -278,26 +337,121 @@
           "time_info": "02时07分"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
+          "title": "特朗普：沃什想看到利率下跌",
+          "url": "https://wallstreetcn.com/livenews/3141877",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时07分"
+          "time_info": "04时13分"
         },
         {
-          "title": "伊朗武装部队警告特朗普",
-          "url": "https://www.douyin.com/hot/2589723",
-          "source": "抖音",
+          "title": "美国总统特朗普：英国首相伯纳姆应该开放北海。 伯纳姆曾告诉我，他会为了石油而开放北海。",
+          "url": "https://wallstreetcn.com/livenews/3141875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时07分"
+          "time_info": "04时13分"
+        },
+        {
+          "title": "特朗普：轮到我们袭击伊朗了",
+          "url": "https://wallstreetcn.com/livenews/3141873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260730040558653800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "金十图示：2026年07月29日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260730040555975800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美股收盘：道指跌超2% 美光科技跌近10%",
+          "url": "https://flash.jin10.com/detail/20260730040113498800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
+          "url": "https://flash.jin10.com/detail/20260730035000001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -313,8 +467,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
         },
         {
           "title": "拒绝阿曼“霍尔木兹海峡”提案、要求更多控制权，伊朗再向美军基地发射导弹",
@@ -324,8 +478,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
+          "appearance_count": 2,
+          "time_info": "[02时07分 ~ 04时13分]"
         },
         {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
@@ -352,48 +506,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌公司在Google Flow Music推出Lyria 3.5。",
+          "url": "https://wallstreetcn.com/livenews/3141870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
         {
           "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
           "url": "https://wallstreetcn.com/livenews/3141787",
@@ -404,6 +530,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数在美联储决议声明发布日跌超0.5%",
+          "url": "https://wallstreetcn.com/livenews/3141880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     }
