@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T21:58:49.577600+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-07-30T23:53:25.312648+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 21时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 23时53分]"
         },
         {
           "title": "AI热潮下的“冰火两重天”：芯片商笑纳现金，云厂商仍在等回报",
@@ -58,19 +58,6 @@
           "time_info": "[07时45分 ~ 16时24分]"
         },
         {
-          "title": "硅谷烧书训AI,焚书坑儒2.0",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 21时58分]"
-        },
-        {
           "title": "沃什：2%通胀目标不动摇，保持独立性，关注AI变革（附全文）",
           "url": "https://wallstreetcn.com/articles/3778258",
           "source": "华尔街见闻",
@@ -79,8 +66,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时13分 ~ 21时58分]"
+          "appearance_count": 7,
+          "time_info": "[10时13分 ~ 23时53分]"
+        },
+        {
+          "title": "硅谷烧书训AI,焚书坑儒2.0",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356640&amp;topic_name=%E7%A1%85%E8%B0%B7%E7%83%A7%E4%B9%A6%E8%AE%ADAI%2C%E7%84%9A%E4%B9%A6%E5%9D%91%E5%84%922.0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 23时53分]"
         },
         {
           "title": "KT宫斗实锤,Aiming被抬走",
@@ -207,15 +208,40 @@
           "time_info": "[10时13分 ~ 13时40分]"
         },
         {
+          "title": "Citadel（城堡）从基金公司Situational Awareness投资组合中接盘一部分AI股票。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时53分]"
+        },
+        {
           "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778263",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 21时58分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 23时53分]"
         },
         {
           "title": "据The Information：思维机器实验室联合创始人温莉莲将重返OpenAI。",
@@ -229,27 +255,26 @@
           "time_info": "02时07分"
         },
         {
+          "title": "谷歌Deepmind推出Gemini Robotics 2机器人AI模型",
+          "url": "https://flash.jin10.com/detail/20260730230757965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "报道：明星AI投资人Aschenbrenner在遭遇大幅亏损后平仓了结交易",
           "url": "https://wallstreetcn.com/livenews/3142507",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
-        },
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时58分]"
         },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
@@ -321,6 +346,18 @@
           "time_info": "[19时07分 ~ 21时58分]"
         },
         {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时53分]"
+        },
+        {
           "title": "AI 焚书",
           "url": "https://s.weibo.com/weibo?q=AI%20%E7%84%9A%E4%B9%A6&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -366,6 +403,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
+          "url": "https://wallstreetcn.com/livenews/3142550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "xAI：推出Grok 4.5。",
           "url": "https://flash.jin10.com/detail/20260730014436121800",
           "source": "金十数据",
@@ -394,7 +442,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -405,7 +453,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -443,15 +491,15 @@
           "time_info": "02时07分"
         },
         {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
+          "title": "AI概念股受科技巨头业绩及资本支出计划提振而大涨",
+          "url": "https://wallstreetcn.com/livenews/3142542",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "23时53分"
         },
         {
           "title": "市场消息：英特尔(INTC.O)向初创公司RosaicLabs提供了一些技术的访问权限，该公司CEO是英特尔CEO在其他公司的共同投资人。",
@@ -523,7 +571,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -534,8 +582,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 21时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 23时53分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -671,6 +719,21 @@
           "time_info": "06时01分"
         },
         {
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时40分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
           "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
           "source": "凤凰网",
@@ -691,20 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 21时58分]"
         },
         {
           "title": "特朗普：我们已对伊朗进行重创，我们很快就会彻底解决伊朗。",
@@ -751,6 +800,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
+          "url": "https://news.ifeng.com/c/8vBnavmwROe",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "道指狂泄超千点，跌幅扩大至2.1%，标普跌1.1%，纳指跌1.1%，半导体指数跌3.8%，特朗普称“会稍微教训一下伊朗”。",
           "url": "https://wallstreetcn.com/livenews/3141883",
           "source": "华尔街见闻-快讯",
@@ -790,7 +850,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -834,7 +894,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -897,7 +957,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
@@ -907,8 +967,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时53分]"
         },
         {
           "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
@@ -920,6 +980,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "【美军称没有美国飞机在伊朗最近的袭击中被摧毁】美军中央司令部30日在社交媒体上发文称，在伊朗最近的袭击中，没有美国飞机被摧毁或损坏。“所有导弹和无人机均被拦截或未能到达目标区域。” 伊朗伊斯兰革命卫队此前发表声明称，为回应美国的袭击，革命卫队袭击了约旦阿兹拉克美军基地，摧毁3架F-35战斗机，并严重损坏另外3架战机。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3142562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "伊朗声称击中美军F-35战机",
@@ -951,8 +1022,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时58分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时53分]"
         },
         {
           "title": "巴基斯坦与伊朗达成协议，确保LNG船安全通行",
@@ -978,6 +1049,28 @@
           "time_info": "[10时13分 ~ 19时07分]"
         },
         {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时53分]"
+        },
+        {
+          "title": "伊朗称打击约旦美军基地并摧毁3架F-35战机",
+          "url": "https://news.ifeng.com/c/8vBe6gl56CN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时53分]"
+        },
+        {
           "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2065729116125521259",
           "source": "知乎",
@@ -988,28 +1081,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 13时40分]"
-        },
-        {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "伊朗称打击约旦美军基地并摧毁3架F-35战机",
-          "url": "https://news.ifeng.com/c/8vBe6gl56CN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
         },
         {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
@@ -1032,6 +1103,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时07分 ~ 06时01分]"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时53分]"
         },
         {
           "title": "美称伊朗发射导弹袭击驻中东美军",
@@ -1068,16 +1151,16 @@
           "time_info": "[10时13分 ~ 10时14分]"
         },
         {
-          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
-          "source": "澎湃新闻",
+          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
+          "url": "https://www.toutiao.com/trending/7668276655902690879/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            13
+            12,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时58分]"
+          "time_info": "[21时58分 ~ 23时53分]"
         },
         {
           "title": "据Axios：美国官员称，美国军方正在对伊朗进行空袭。",
@@ -1091,15 +1174,15 @@
           "time_info": "07时45分"
         },
         {
-          "title": "伊朗称打击约旦美军基地摧毁3架F-35",
-          "url": "https://www.toutiao.com/trending/7668276655902690879/",
-          "source": "今日头条",
+          "title": "据伊朗迈赫尔通讯社：也门萨那传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260730230116479800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "23时53分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：当地时间周四上午袭击了约旦的美军基地。",
@@ -1111,6 +1194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "伊朗称袭击科威特的美空军基地",
+          "url": "https://www.toutiao.com/trending/7668304219085999652/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
@@ -1163,7 +1257,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1207,7 +1301,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }
@@ -1215,7 +1309,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
@@ -1272,7 +1366,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1294,9 +1388,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
+        },
+        {
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -1317,7 +1422,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1416,7 +1521,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1427,7 +1532,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -1476,6 +1581,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "美股存储芯片指数涨超17%，SK海力士ADR涨15.85%，美光科技股价上涨15%，闪迪上涨21.15%，西部数据上涨16.87%，希捷科技上涨15.84%。",
+          "url": "https://wallstreetcn.com/livenews/3142532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "Meta、微软、高通、ARM将于美股盘后公布2026年Q2财报。",
           "url": "https://flash.jin10.com/detail/20260730035000001800",
           "source": "金十数据",
@@ -1500,6 +1616,58 @@
       ]
     },
     {
+      "keyword_group": "字节跳动 豆包",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "豆包究竟见过多少人的糗事",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%A9%B6%E7%AB%9F%E8%A7%81%E8%BF%87%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E7%B3%97%E4%BA%8B&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 23时53分]"
+        },
+        {
+          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
+          "url": "https://www.cls.cn/detail/2441092",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 19时07分]"
+        },
+        {
+          "title": "豆包飞书团队合并",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%A3%9E%E4%B9%A6%E5%9B%A2%E9%98%9F%E5%90%88%E5%B9%B6%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务",
+          "url": "https://wallstreetcn.com/livenews/3142026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -1514,8 +1682,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 21时58分]"
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 23时53分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
@@ -1553,46 +1721,6 @@
       ]
     },
     {
-      "keyword_group": "字节跳动 豆包",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "豆包究竟见过多少人的糗事",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%A9%B6%E7%AB%9F%E8%A7%81%E8%BF%87%E5%A4%9A%E5%B0%91%E4%BA%BA%E7%9A%84%E7%B3%97%E4%BA%8B&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "字节跳动重构ToB版图：飞书与豆包将整合 大厂激战“AI工作入口”",
-          "url": "https://www.cls.cn/detail/2441092",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 19时07分]"
-        },
-        {
-          "title": "字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务",
-          "url": "https://wallstreetcn.com/livenews/3142026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1603,7 +1731,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
