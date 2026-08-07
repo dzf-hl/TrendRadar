@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T12:54:33.978079+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-08-07T14:09:11.875106+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
@@ -40,20 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
-        },
-        {
-          "title": "内娱第一人 戚薇开放形象AI授权",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -63,8 +51,33 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时09分]"
+        },
+        {
+          "title": "内娱第一人 戚薇开放形象AI授权",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%BA%BA+%E6%88%9A%E8%96%87%E5%BC%80%E6%94%BE%E5%BD%A2%E8%B1%A1AI%E6%8E%88%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时09分]"
+        },
+        {
+          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
+          "url": "https://www.cls.cn/detail/2448129",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时09分]"
         },
         {
           "title": "机构：2026年AI服务器出货量增幅上调至近31%",
@@ -73,7 +86,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -87,6 +100,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时57分 ~ 10时45分]"
+        },
+        {
+          "title": "戚薇AI短剧 雷霆视角",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
         },
         {
           "title": "美银抛出激进预测：美联储将连续加息三次 AI支出周期不会脱轨",
@@ -133,24 +157,35 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
+          "title": "戚薇 授权AI",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%20%E6%8E%88%E6%9D%83AI&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        },
+        {
+          "title": "汪峰公司因AI从1100人减到400人",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%E5%85%AC%E5%8F%B8%E5%9B%A0AI%E4%BB%8E1100%E4%BA%BA%E5%87%8F%E5%88%B0400%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 14时09分]"
+        },
+        {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
           "url": "https://wallstreetcn.com/articles/3778824",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
-          "url": "https://www.cls.cn/detail/2448129",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -172,9 +207,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "美科研团队利用AI设计出可复制的新型噬菌体",
+          "url": "https://wallstreetcn.com/livenews/3146444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "美国科学家首次用AI设计出病毒",
@@ -183,7 +229,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -202,8 +248,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -213,19 +259,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时09分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
           "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时09分]"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -239,27 +298,16 @@
           "time_info": "07时58分"
         },
         {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时54分]"
-        },
-        {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
           "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时09分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -268,20 +316,32 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时09分]"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时54分 ~ 14时09分]"
         },
         {
           "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
           "url": "https://wallstreetcn.com/livenews/3146430",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 14时09分]"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -293,17 +353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
-          "url": "https://www.cls.cn/detail/2447932",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
         },
         {
           "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
@@ -364,7 +413,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
@@ -387,8 +436,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -444,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "日本石油公司ENEOS首席财务官：伊朗战争结束后，我们需要中长期内扩大石油储备，并实现原油采购来源多元化。将与政府紧密协调，加强石油供应链的韧性。",
+          "url": "https://flash.jin10.com/detail/20260807132544810800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
@@ -460,8 +520,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -473,8 +533,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 14时09分]"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -546,7 +606,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
