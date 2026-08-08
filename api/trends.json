@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-08T14:51:21.950444+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-08-08T15:49:44.651753+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 38,
       "titles": [
+        {
+          "title": "中期选举临近，特朗普连续21场败诉",
+          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 15时49分]"
+        },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
           "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "中期选举临近，特朗普连续21场败诉",
-          "url": "https://news.ifeng.com/c/8vP8prEgTBk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 14时51分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -66,8 +66,35 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时52分 ~ 14时51分]"
+          "appearance_count": 12,
+          "time_info": "[03时52分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 15时49分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时49分]"
         },
         {
           "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
@@ -93,31 +120,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时53分 ~ 05时38分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时51分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -443,7 +445,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -451,7 +453,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -465,6 +467,18 @@
           "time_info": "[00时53分 ~ 09时27分]"
         },
         {
+          "title": "是否将辞职？伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 15时49分]"
+        },
+        {
           "title": "以情报高官疑因伊朗行动失败被解职",
           "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
           "source": "凤凰网",
@@ -474,18 +488,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 07时33分]"
-        },
-        {
-          "title": "是否将辞职？伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 14时51分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -508,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://flash.jin10.com/detail/20260808144535599800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -572,6 +585,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时55分]"
+        },
+        {
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -857,7 +881,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -898,11 +922,12 @@
             16,
             21,
             18,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 15时49分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -916,8 +941,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时53分 ~ 14时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 15时49分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -931,8 +956,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时52分 ~ 14时51分]"
+          "appearance_count": 12,
+          "time_info": "[03时52分 ~ 15时49分]"
         },
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
@@ -950,35 +975,25 @@
           "time_info": "[07时33分 ~ 14时51分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 07时33分]"
-        },
-        {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
           "url": "https://www.zhihu.com/question/2068674224802067300",
           "source": "知乎",
           "ranks": [
             13,
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 15时49分]"
         },
         {
-          "title": "国民党推出AI发言人“郑小文”迎战民进党",
-          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
           "source": "凤凰网",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -994,8 +1009,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时49分]"
+        },
+        {
+          "title": "国民党推出AI发言人“郑小文”迎战民进党",
+          "url": "https://news.ifeng.com/c/8vP4WV73BTc",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 07时33分]"
         },
         {
           "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
@@ -1029,11 +1055,25 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时49分]"
+        },
+        {
+          "title": "自媒体红利期只剩AI了",
+          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时56分 ~ 15时49分]"
         },
         {
           "title": "据The Information：SpaceX(SPCX.O)最早可能在下周末完成对编程初创公司Cursor的600亿美元收购。Cursor将与SpaceX AI团队进行整合。",
@@ -1047,17 +1087,16 @@
           "time_info": "03时52分"
         },
         {
-          "title": "自媒体红利期只剩AI了",
-          "url": "https://s.weibo.com/weibo?q=%E8%87%AA%E5%AA%92%E4%BD%93%E7%BA%A2%E5%88%A9%E6%9C%9F%E5%8F%AA%E5%89%A9AI%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            16,
-            15
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时56分 ~ 14时51分]"
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 15时49分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -1097,17 +1136,6 @@
           "time_info": "[01时49分 ~ 02时55分]"
         },
         {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
           "url": "https://flash.jin10.com/detail/20260808005548495800",
           "source": "金十数据",
@@ -1117,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
+          "url": "https://wallstreetcn.com/livenews/3146973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -1169,17 +1208,6 @@
           "time_info": "[00时53分 ~ 06时34分]"
         },
         {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时52分]"
-        },
-        {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
@@ -1189,8 +1217,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时26分 ~ 14时51分]"
+          "appearance_count": 8,
+          "time_info": "[09时26分 ~ 15时49分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 03时52分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1203,8 +1242,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 15时49分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1213,11 +1252,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时34分 ~ 14时51分]"
+          "appearance_count": 10,
+          "time_info": "[06时34分 ~ 15时49分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -1399,11 +1439,12 @@
             17,
             20,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时51分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 15时49分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1429,7 +1470,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
