@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T16:41:45.024913+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-08-09T17:38:43.715571+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时38分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -64,37 +64,15 @@
           "time_info": "[11时41分 ~ 14时55分]"
         },
         {
-          "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
-          "url": "https://flash.jin10.com/detail/20260809162616053800",
-          "source": "金十数据",
+          "title": "伊朗外长再重申目前未与美国谈判",
+          "url": "https://wallstreetcn.com/livenews/3147062",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：只要美国违反临时协议，就不会进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260809161610479800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐表示，与美国没有谈判，只通过中介交换信息。",
-          "url": "https://flash.jin10.com/detail/20260809161412221800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时41分"
+          "time_info": "17时38分"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -122,6 +100,18 @@
           "time_info": "[00时32分 ~ 07时27分]"
         },
         {
+          "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
+          "url": "https://flash.jin10.com/detail/20260809162616053800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时38分]"
+        },
+        {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
           "url": "https://flash.jin10.com/detail/20260809060029178800",
           "source": "金十数据",
@@ -145,17 +135,16 @@
           "time_info": "[00时32分 ~ 09时39分]"
         },
         {
-          "title": "伊朗总统说必须摆脱非战非和局面",
-          "url": "https://wallstreetcn.com/livenews/3147050",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长阿拉格齐：只要美国违反临时协议，就不会进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260809161610479800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            5,
-            6
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时55分 ~ 16时41分]"
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时38分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -169,11 +158,51 @@
             19,
             23,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 17时38分]"
+        },
+        {
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时55分 ~ 17时38分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐表示，与美国没有谈判，只通过中介交换信息。",
+          "url": "https://flash.jin10.com/detail/20260809161412221800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 17时38分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时38分]"
         },
         {
           "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
@@ -200,8 +229,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -250,23 +279,23 @@
             1,
             5,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时42分 ~ 16时41分]"
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 17时38分]"
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时38分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -293,17 +322,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时27分]"
-        },
-        {
-          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
-          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时41分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -368,6 +386,17 @@
           "time_info": "[02时36分 ~ 03时30分]"
         },
         {
+          "title": "伊朗外长强调霍尔木兹海峡未重新开放",
+          "url": "https://flash.jin10.com/detail/20260809163624666800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时38分"
+        },
+        {
           "title": "美国副总统万斯：美国将继续对伊朗施加压力。",
           "url": "https://flash.jin10.com/detail/20260808225228376800",
           "source": "金十数据",
@@ -393,6 +422,19 @@
           "time_info": "[03时30分 ~ 05时30分]"
         },
         {
+          "title": "伊朗外长称将继续坚持抵抗立场",
+          "url": "https://flash.jin10.com/detail/20260809145146414800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时38分]"
+        },
+        {
           "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
           "url": "https://flash.jin10.com/detail/20260808224916124800",
           "source": "金十数据",
@@ -415,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时36分]"
-        },
-        {
-          "title": "伊朗外长称将继续坚持抵抗立场",
-          "url": "https://flash.jin10.com/detail/20260809145146414800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时41分]"
         },
         {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
@@ -556,8 +586,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 16时41分]"
+          "appearance_count": 3,
+          "time_info": "[15时54分 ~ 17时38分]"
         },
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -569,8 +599,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时38分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -612,8 +642,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -624,11 +654,12 @@
             5,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -643,8 +674,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -673,6 +704,18 @@
           "time_info": "[09时38分 ~ 11时42分]"
         },
         {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时38分]"
+        },
+        {
           "title": "AI帮你开发以前要花钱的功能",
           "url": "https://s.weibo.com/weibo?q=AI%E5%B8%AE%E4%BD%A0%E5%BC%80%E5%8F%91%E4%BB%A5%E5%89%8D%E8%A6%81%E8%8A%B1%E9%92%B1%E7%9A%84%E5%8A%9F%E8%83%BD&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -694,17 +737,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时38分 ~ 11时42分]"
-        },
-        {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时41分]"
         },
         {
           "title": "T1 官宣上调二队打野 Painter 首战 HLE，Oner 替补，如何评价此次换人？",
@@ -821,8 +853,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -836,11 +868,12 @@
             15,
             19,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -889,11 +922,12 @@
             20,
             24,
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -941,8 +975,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时38分]"
         },
         {
           "title": "舒默怒斥特朗普：你在哪个星球",
@@ -994,8 +1028,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时38分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -1006,8 +1040,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1020,8 +1054,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1045,8 +1079,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时41分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时38分]"
         }
       ]
     },
@@ -1069,8 +1103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -1115,8 +1149,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 16时41分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 17时38分]"
         }
       ]
     },
@@ -1132,11 +1166,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 16时41分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 17时38分]"
         }
       ]
     }
