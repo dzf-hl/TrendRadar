@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T21:06:21.185813+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-08-10T22:58:00.885739+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗高层变动，最高领袖发出新任命",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 21时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 22时58分]"
+        },
+        {
+          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
+          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时58分]"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -44,15 +55,16 @@
           "time_info": "[00时34分 ~ 09时42分]"
         },
         {
-          "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
-          "url": "https://news.ifeng.com/c/8vTiqvCqOyW",
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时06分]"
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 22时58分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -79,16 +91,15 @@
           "time_info": "09时42分"
         },
         {
-          "title": "伊朗密集更换高层，释放何种信号？",
-          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队总司令祝贺新任最高国家安全委员会秘书",
+          "url": "https://wallstreetcn.com/livenews/3147576",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            4
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 21时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "关键时刻，伊朗突然换帅！革命卫队强硬派老将接掌最高安全机构",
@@ -129,6 +140,17 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 22时58分]"
+        },
+        {
           "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
           "url": "https://wallstreetcn.com/livenews/3147123",
           "source": "华尔街见闻-快讯",
@@ -139,17 +161,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗的5个条件，美国是否会照单全收？",
-          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 21时06分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
@@ -338,7 +349,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -349,7 +360,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -363,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3147570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
@@ -388,6 +410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统佩泽希齐扬表示，美国和以色列利用人工智能数据攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260810224105875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "伊朗陆军司令：将回应任何敌对行动",
@@ -418,9 +451,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：也门无人机袭击目标直指沙特在摩卡地区的代理人。",
+          "url": "https://flash.jin10.com/detail/20260810222535115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "伊朗军方称美军敢来就斩断他们的脚",
@@ -432,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "雷扎伊任命显示伊朗军政宗教高层“协同加强”",
+          "url": "https://flash.jin10.com/detail/20260810222218882800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "伊朗称谈判代表将在“适当的时候”访问巴基斯坦",
@@ -456,6 +511,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
+          "url": "https://flash.jin10.com/detail/20260810221826228800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "伊朗公布美军基地遭袭前后卫星对比图",
           "url": "https://www.toutiao.com/trending/7671344515512762409/",
           "source": "今日头条",
@@ -465,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "伊朗开复航条件，俄油回流G7：两股力量重塑能源定价 | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260810221813827800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "伊朗：乌克兰必须为袭击伊朗货轮赔偿",
@@ -525,7 +602,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -558,7 +635,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -584,8 +661,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 21时06分]"
+          "appearance_count": 10,
+          "time_info": "[11时53分 ~ 22时58分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -599,6 +676,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时34分 ~ 07时31分]"
+        },
+        {
+          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
+          "url": "https://wallstreetcn.com/articles/3779065",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 22时58分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -669,17 +760,32 @@
           "time_info": "[11时53分 ~ 21时06分]"
         },
         {
-          "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
-          "url": "https://wallstreetcn.com/articles/3779065",
-          "source": "华尔街见闻",
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
-            9,
-            5,
-            4
+            13,
+            14,
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时06分]"
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 22时58分]"
+        },
+        {
+          "title": "孙女用AI把奶奶P进《西游记》",
+          "url": "https://www.toutiao.com/trending/7672253690623508506/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 22时58分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -693,20 +799,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时31分]"
-        },
-        {
-          "title": "AI挤占短剧业,真人演员遭偷家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 21时06分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -723,19 +815,6 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
-          "title": "孙女用AI把奶奶P进《西游记》",
-          "url": "https://www.toutiao.com/trending/7672253690623508506/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时06分]"
-        },
-        {
           "title": "为什么程序员大多都拥抱 AI，而音乐人却抗拒并隔离 AI 音乐池？",
           "url": "https://www.zhihu.com/question/2063944037544023265",
           "source": "知乎",
@@ -746,6 +825,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 11时54分]"
+        },
+        {
+          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
+          "url": "https://www.cls.cn/detail/2450137",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时58分]"
+        },
+        {
+          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
+          "url": "https://www.cls.cn/detail/2449895",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时58分]"
+        },
+        {
+          "title": "ai漫剧顶流已经出了8季了",
+          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时58分]"
         },
         {
           "title": "如何评价T1新打野Painter",
@@ -783,39 +898,15 @@
           "time_info": "[21时05分 ~ 21时06分]"
         },
         {
-          "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
-          "url": "https://www.cls.cn/detail/2450137",
-          "source": "财联社热门",
+          "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
+          "url": "https://wallstreetcn.com/articles/3779081",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时06分]"
-        },
-        {
-          "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
-          "url": "https://www.cls.cn/detail/2449895",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时06分]"
-        },
-        {
-          "title": "ai漫剧顶流已经出了8季了",
-          "url": "https://s.weibo.com/weibo?q=%23ai%E6%BC%AB%E5%89%A7%E9%A1%B6%E6%B5%81%E5%B7%B2%E7%BB%8F%E5%87%BA%E4%BA%868%E5%AD%A3%E4%BA%86%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时06分]"
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
         },
         {
           "title": "建议每个人都用AI做的三件事",
@@ -849,6 +940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
+        },
+        {
+          "title": "中国长城在互动平台表示，公司擎天系列AI服务器可为相关业务提供算力支持，相关经营情况请以公司定期报告为准。",
+          "url": "https://flash.jin10.com/detail/20260810223751828800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -934,7 +1036,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -967,7 +1069,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         }
@@ -996,8 +1098,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时58分]"
         },
         {
           "title": "特朗普会对内塔尼亚胡拒绝加沙和平计划作何反应？",
@@ -1045,8 +1147,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 21时06分]"
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 22时58分]"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时42分 ~ 22时58分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时53分 ~ 22时58分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -1060,16 +1185,19 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
           "ranks": [
+            11,
             10,
-            9
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时42分 ~ 21时06分]"
+          "appearance_count": 8,
+          "time_info": "[15时38分 ~ 22时58分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -1113,29 +1241,17 @@
           "time_info": "[03时33分 ~ 05时31分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时53分 ~ 21时06分]"
-        },
-        {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
+            8,
             7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时58分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -1148,18 +1264,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 11时54分]"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时06分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -1257,7 +1361,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -1277,7 +1381,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         },
@@ -1319,6 +1423,17 @@
           "time_info": "[06时31分 ~ 07时31分]"
         },
         {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时57分 ~ 22时58分]"
+        },
+        {
           "title": "苹果美股盘前下跌约1.2%，Jefferies下调其评级至低配。",
           "url": "https://wallstreetcn.com/livenews/3147454",
           "source": "华尔街见闻-快讯",
@@ -1347,9 +1462,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.1%，英特尔跌约3%，Meta涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3147550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
@@ -1366,8 +1492,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时07分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时07分 ~ 22时58分]"
         },
         {
           "title": "作者来整活,豆包成主角DS器灵",
@@ -1490,7 +1616,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
         }
@@ -1498,7 +1624,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
@@ -1511,6 +1637,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时31分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨1.4%，刷新日高至104.17美元，逼近6月1日盘中最高位108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3147561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌：为谷歌广告和谷歌分析添加人工智能和智能体功能。",
+          "url": "https://flash.jin10.com/detail/20260810223834412800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     }
