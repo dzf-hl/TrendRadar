@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:54:14.464850+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-08-10T15:39:08.753133+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗高层变动，最高领袖发出新任命",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 15时39分]"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 09时42分]"
+        },
+        {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -85,11 +96,12 @@
             4,
             2,
             27,
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 15时39分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -200,11 +212,23 @@
           "url": "https://news.ifeng.com/c/8vT6dxUIQom",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 15时39分]"
+        },
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
@@ -227,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗外交部发言人：（就麦加防御协定回应称）过去三年间，地区各国已意识到，安全绝非是可以从欺诈性中间商那里购买的商品。任何基于现实、正确识别敌人与威胁的计划，都有助于维护地区安全，并防止以色列制造动荡。",
+          "url": "https://flash.jin10.com/detail/20260810152449467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
@@ -281,6 +316,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗外交部发言人：我们呼吁地区各国在没有外部势力介入的情况下加强关系、增进互信并维护安全。",
+          "url": "https://flash.jin10.com/detail/20260810152044806800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
@@ -366,7 +412,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -386,7 +432,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -413,8 +459,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时31分 ~ 11时54分]"
+          "appearance_count": 16,
+          "time_info": "[01时31分 ~ 15时39分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -469,6 +515,30 @@
           "time_info": "[03时33分 ~ 05时31分]"
         },
         {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 15时39分]"
+        },
+        {
           "title": "特朗普公布新任总统助理人选",
           "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
           "source": "凤凰网",
@@ -481,28 +551,15 @@
           "time_info": "[09时42分 ~ 11时54分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            9,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时54分]"
-        },
-        {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时42分 ~ 11时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 15时39分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -517,15 +574,15 @@
           "time_info": "[04时31分 ~ 05时31分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -550,6 +607,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时31分]"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
@@ -588,7 +656,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -660,11 +728,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 15时39分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -678,6 +747,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 06时31分]"
+        },
+        {
+          "title": "高盛：中国AI板块不存在整体泡沫 三大细分领域最具投资价值",
+          "url": "https://www.cls.cn/detail/2449732",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "毛宁向世界分享AI“中式天庭”",
@@ -710,22 +790,46 @@
           "url": "https://www.zhihu.com/question/2069770698055050765",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 15时39分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 15时39分]"
+        },
+        {
+          "title": "AI挤占短剧业,真人演员遭偷家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357005&amp;topic_name=AI%E6%8C%A4%E5%8D%A0%E7%9F%AD%E5%89%A7%E4%B8%9A%2C%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E9%81%AD%E5%81%B7%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "time_info": "[15时38分 ~ 15时39分]"
+        },
+        {
+          "title": "第一批用AI租房的受益者出现了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E7%94%A8AI%E7%A7%9F%E6%88%BF%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "建议每个人都用AI做的三件事",
@@ -767,7 +871,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
@@ -794,11 +898,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时32分 ~ 11时54分]"
+          "appearance_count": 13,
+          "time_info": "[03时32分 ~ 15时39分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -836,11 +941,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 11时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 15时39分]"
         },
         {
           "title": "原字节跳动机器人一号位加入小米",
@@ -868,8 +974,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "黄金看涨期权有押有撤，分歧之下金价是否还有突破空间？——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260810151012200800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
         {
           "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
           "url": "https://flash.jin10.com/detail/20260810110224681800",
@@ -877,7 +994,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
