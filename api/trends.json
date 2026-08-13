@@ -1,238 +1,11 @@
 {
-  "generated_at": "2026-08-14T04:42:00.859475+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-08-14T05:44:10.950735+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "用AI给朋友做个专属小游戏",
-          "url": "https://www.douyin.com/hot/2608715",
-          "source": "抖音",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            25,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
-          "url": "https://www.cls.cn/detail/2453237",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 04时42分]"
-        },
-        {
-          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
-          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
-          "url": "https://wallstreetcn.com/articles/3779257",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260814040642401800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260814040536854800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3779338",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
-        },
-        {
-          "title": "美股存储芯片股大涨，闪迪涨逾15%",
-          "url": "https://wallstreetcn.com/livenews/3149233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3149304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "美股三大指数开盘上涨",
-          "url": "https://www.douyin.com/hot/2608893",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 04时42分]"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 存储概念走强",
-          "url": "https://flash.jin10.com/detail/20260814040105197800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -243,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
@@ -266,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -277,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "据Axios：特朗普女婿库什纳计划下周访问以色列，进行关于加沙的会谈。",
@@ -287,7 +60,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -303,15 +76,48 @@
           "time_info": "00时00分"
         },
         {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时43分 ~ 05时44分]"
+        },
+        {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
           "url": "https://wallstreetcn.com/livenews/3149298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
+          "url": "https://wallstreetcn.com/livenews/3149316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814043950826800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
@@ -320,7 +126,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -328,7 +134,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -338,8 +144,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -349,8 +155,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "伊朗最高领袖顾问：若条件得不到满足 或升级冲突",
@@ -372,19 +178,53 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "伊朗官员重申霍尔木兹海峡处于关闭状态",
           "url": "https://wallstreetcn.com/livenews/3149303",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时44分]"
+        },
+        {
+          "title": "伊朗将9月销往亚洲的伊朗轻质原油价格定为阿曼/迪拜基准价贴水4.70美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260814044923170800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时44分"
+        },
+        {
+          "title": "阿联酋外交部：阿联酋谴责伊朗在霍尔木兹海峡对阿布扎比国家石油公司船只的攻击。",
+          "url": "https://flash.jin10.com/detail/20260814044302971800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "美防长称可“无限期维持”对伊朗海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3149317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "伊朗革命卫队：真相要到战场上去看",
@@ -393,9 +233,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
+          "url": "https://wallstreetcn.com/livenews/3149312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         },
         {
           "title": "伊朗官员：美若敢用核弹 其全球基地将成靶子",
@@ -407,6 +258,250 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            14,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
+          "ranks": [
+            17,
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 05时44分]"
+        },
+        {
+          "title": "AI“循环融资”越来越仰赖一件事：英伟达GPU能保值多久……",
+          "url": "https://www.cls.cn/detail/2453237",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "规避抄袭率检测让AI改稿，化学论文竟推荐“屠杀一整个民族”？",
+          "url": "https://news.ifeng.com/c/8vYegkOgEUC",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260814040642401800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "金十图示：2026年08月13日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260814040536854800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美PPI数据再缓加息压力，美股高开，Cerebras跌12%，金油齐跌",
+          "url": "https://wallstreetcn.com/articles/3779338",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
+        },
+        {
+          "title": "美股存储芯片股大涨，闪迪涨逾15%",
+          "url": "https://wallstreetcn.com/livenews/3149233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 05时44分]"
+        },
+        {
+          "title": "美股三大指数开盘上涨",
+          "url": "https://www.douyin.com/hot/2608893",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3149304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时44分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 存储概念走强",
+          "url": "https://flash.jin10.com/detail/20260814040105197800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时44分"
         }
       ]
     },
@@ -423,19 +518,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时00分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 05时44分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
           "url": "https://www.zhihu.com/question/2071179550575124530",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 05时44分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -444,7 +540,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -461,7 +557,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -472,7 +568,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -487,11 +583,12 @@
           "url": "https://www.douyin.com/hot/2608658",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[04时41分 ~ 05时44分]"
         }
       ]
     },
@@ -504,11 +601,12 @@
           "url": "https://wallstreetcn.com/livenews/3149305",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时44分]"
         }
       ]
     }
